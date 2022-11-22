@@ -9,6 +9,7 @@
 
 | Id | Type | Move / Letters to replace | Created words / New letters | Date | Points | Player | 
 | - | - | - | - | - | - | - |
+|5| INSERT | 2:H:ludwig | ['LUDWIG'] | 2022-11-22 22:47:07.807384 | 24 | Jerry |
 |4| INSERT | 0:H:redoute | ['REDOUTE'] | 2022-11-22 22:45:51.983294 | 24 | Tom |
 |3| INSERT | L:0:unitage | ['UNITAGE'] | 2022-11-22 22:44:48.433271 | 18 | Jerry |
 |2| INSERT | 5:J:fogey | ['FOGEY'] | 2022-11-22 11:23:22.996510 | 20 | Tom |
@@ -21,15 +22,15 @@
   
   | Id | Move | Issue title | Points | 
   | - | - | - | - |
-|1| f2:H:ludwig | scrabble&#124;move&#124;2:H:ludwig | 24 |
-|2| f10:F:glowed | scrabble&#124;move&#124;10:F:glowed | 22 |
-|3| f10:E:gowdie | scrabble&#124;move&#124;10:E:gowdie | 22 |
-|4| f10:H:wield | scrabble&#124;move&#124;10:H:wield | 18 |
-|5| f10:G:dowel | scrabble&#124;move&#124;10:G:dowel | 18 |
-|6| f10:G:wiled | scrabble&#124;move&#124;10:G:wiled | 18 |
-|7| f10:G:lowed | scrabble&#124;move&#124;10:G:lowed | 18 |
-|8| f9:J:aglow | scrabble&#124;move&#124;9:J:aglow | 17 |
-|9| f9:F:wilga | scrabble&#124;move&#124;9:F:wilga | 17 |
-|10| f10:H:owed | scrabble&#124;move&#124;10:H:owed | 16 |
+|1| f9:F:zambal | scrabble&#124;move&#124;9:F:zambal | 39 |
+|2| f10:G:amzel | scrabble&#124;move&#124;10:G:amzel | 32 |
+|3| f10:G:mazel | scrabble&#124;move&#124;10:G:mazel | 32 |
+|4| f10:J:ezba | scrabble&#124;move&#124;10:J:ezba | 30 |
+|5| f10:I:mezo | scrabble&#124;move&#124;10:I:mezo | 30 |
+|6| f10:H:zoeal | scrabble&#124;move&#124;10:H:zoeal | 28 |
+|7| f10:I:zeal | scrabble&#124;move&#124;10:I:zeal | 26 |
+|8| f10:H:zoea | scrabble&#124;move&#124;10:H:zoea | 26 |
+|9| f10:I:zea | scrabble&#124;move&#124;10:I:zea | 24 |
+|10| f10:I:zel | scrabble&#124;move&#124;10:I:zel | 24 |
 </details>
     
