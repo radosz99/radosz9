@@ -9,6 +9,7 @@
 
 | Id | Type | Move / Letters to replace | Created words / New letters | Date | Points | Player | 
 | - | - | - | - | - | - | - |
+|4| INSERT | 0:H:redoute | ['REDOUTE'] | 2022-11-22 22:45:51.983294 | 24 | Tom |
 |3| INSERT | L:0:unitage | ['UNITAGE'] | 2022-11-22 22:44:48.433271 | 18 | Jerry |
 |2| INSERT | 5:J:fogey | ['FOGEY'] | 2022-11-22 11:23:22.996510 | 20 | Tom |
 |1| INSERT | J:5:faunae | ['FAUNAE'] | 2022-11-22 11:17:36.792577 | 19 | Jerry |
@@ -20,15 +21,15 @@
   
   | Id | Move | Issue title | Points | 
   | - | - | - | - |
-|1| f0:H:redoute | scrabble&#124;move&#124;0:H:redoute | 24 |
-|2| f1:J:denote | scrabble&#124;move&#124;1:J:denote | 22 |
-|3| f1:J:denter | scrabble&#124;move&#124;1:J:denter | 22 |
-|4| f0:H:derout | scrabble&#124;move&#124;0:H:derout | 21 |
-|5| f0:J:douter | scrabble&#124;move&#124;0:J:douter | 21 |
-|6| f0:H:redout | scrabble&#124;move&#124;0:H:redout | 21 |
-|7| f0:H:detour | scrabble&#124;move&#124;0:H:detour | 21 |
-|8| f0:J:toured | scrabble&#124;move&#124;0:J:toured | 21 |
-|9| f0:J:routed | scrabble&#124;move&#124;0:J:routed | 21 |
-|10| f1:J:donee | scrabble&#124;move&#124;1:J:donee | 20 |
+|1| f2:H:ludwig | scrabble&#124;move&#124;2:H:ludwig | 24 |
+|2| f10:F:glowed | scrabble&#124;move&#124;10:F:glowed | 22 |
+|3| f10:E:gowdie | scrabble&#124;move&#124;10:E:gowdie | 22 |
+|4| f10:H:wield | scrabble&#124;move&#124;10:H:wield | 18 |
+|5| f10:G:dowel | scrabble&#124;move&#124;10:G:dowel | 18 |
+|6| f10:G:wiled | scrabble&#124;move&#124;10:G:wiled | 18 |
+|7| f10:G:lowed | scrabble&#124;move&#124;10:G:lowed | 18 |
+|8| f9:J:aglow | scrabble&#124;move&#124;9:J:aglow | 17 |
+|9| f9:F:wilga | scrabble&#124;move&#124;9:F:wilga | 17 |
+|10| f10:H:owed | scrabble&#124;move&#124;10:H:owed | 16 |
 </details>
     
