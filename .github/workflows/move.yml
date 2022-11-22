@@ -1,0 +1,144 @@
+name: "Chess"
+
+on:
+  issues:
+  types: [opened]
+
+jobs:
+  move:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check event name
+      run: echo "${{ github.event_name }}"
+    
+    - name: Set env vars
+      run: |
+        echo "${{ github.event_name }}"
+        echo "REPOSITORY=${{ github.repository }}" >> $GITHUB_ENV
+        echo "ISSUE_NUMBER=20" >> $GITHUB_ENV
+        echo "ISSUE_AUTHOR=radosz99" >> $GITHUB_ENV
+        
+    - uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: 2.7
+      
+    - name: Setup Gems
+      run: |
+        gem install octokit -v 5.1.0 -N --silent
+        
+    - name: Play
+      run: |
+        ruby <<- EORUBY
+        
+        require 'octokit'
+        require 'uri'
+        require 'net/http'
+        begin
+          github_token = "${{ secrets.TOKEN_GITHUB }}"
+          repository = "#{ENV.fetch('REPOSITORY')}"
+          board_path = "board.png"
+          game_token = "${{ secrets.GAME_TOKEN }}"
+          server = "${{ secrets.SERVER }}"
+          issue_title = "scrabble|move|H:5:GABDEP"
+          issue_number = ENV.fetch('ISSUE_NUMBER')
+          issue_author = ENV.fetch('ISSUE_AUTHOR')
+        end
+        def make_get_request(uri)
+          response = Net::HTTP.get_response(uri)
+          return response.body
+        end
+        def replace_letters(server, game_token, letters, issue_author, issue_number, issue_title)
+          uri = URI("#{server}/replace/#{game_token}")
+          request_params =  {
+            letters: letters,
+            issue_number: issue_number,
+            github_user: issue_author,
+            issue_title: issue_title
+          }
+          request_header = { 'Content-Type': 'application/json' }
+          http = Net::HTTP.new(uri.host, uri.port)
+          request = Net::HTTP::Post.new(uri.path, request_header)
+          request.body = request_params.to_json
+          response = http.request(request)
+          return response.body
+        end
+        def get_board_image(server, game_token)
+          uri = URI("#{server}/board-image/#{game_token}")
+          return make_get_request(uri)
+        end
+        def get_rack_image(server, game_token)
+          uri = URI("#{server}/rack-image/#{game_token}")
+          return make_get_request(uri)
+        end
+        def get_readme_content(server, game_token, repository)
+          uri = URI("#{server}/readme/#{game_token}?repository_path=#{repository}")
+          return make_get_request(uri)
+        end
+        def make_move(server, game_token, move, issue_author, issue_number, issue_title)
+          uri = URI("#{server}/move/#{game_token}")
+          request_params =  {
+            move: move,
+            issue_number: issue_number,
+            github_user: issue_author,
+            issue_title: issue_title
+          }
+          request_header = { 'Content-Type': 'application/json' }
+          http = Net::HTTP.new(uri.host, uri.port)
+          request = Net::HTTP::Post.new(uri.path, request_header)
+          request.body = request_params.to_json
+          response = http.request(request)
+          return response.body
+        end
+        def put_file_on_repo(client, repo, filepath, commit, content)
+          puts "Getting file #{filepath} from #{repo}"
+          current_content = client.contents(
+            repo,
+            path: filepath
+          )
+          client.create_contents(
+            repo,
+            filepath,
+            commit,
+            content,
+            sha: current_content.sha,
+            branch: 'main'
+          )
+          puts "File #{filepath} has been found and updated"
+          rescue Octokit::NotFound => e
+            client.create_contents(
+              repo,
+              filepath,
+              commit,
+              content,
+              branch: 'main'
+            )
+            puts "File #{filepath} had not been found so it was created"
+        end
+        begin
+          title_split = issue_title.split('|')
+          SCRABBLE_ACTION_TYPE   = title_split[1].to_s
+          DETAILS  = title_split[2].to_s
+          raise StandardError.new 'replace|move|skip are the only allowed commands' unless ['replace','move', 'skip'].include? SCRABBLE_ACTION_TYPE
+          if SCRABBLE_ACTION_TYPE == 'move'
+            puts "Move action type"
+            response = make_move(server, game_token, DETAILS, issue_author, issue_number, issue_title)
+            puts response
+          elsif SCRABBLE_ACTION_TYPE == 'skip'
+            puts "Skip action type, has not been implemented yet"
+          elsif SCRABBLE_ACTION_TYPE == 'replace'
+            puts "Replace action type"
+            response = replace_letters(server, game_token, DETAILS, issue_author, issue_number, issue_title)
+            puts response
+          else
+            puts "Nothing"
+          end
+        rescue StandardError => e
+          puts "The game title or move was unable to be parsed. - @#{e}"
+          exit(0)
+        end
+        client = Octokit::Client.new(:access_token => github_token)
+        put_file_on_repo(client, repository, "README.md", "New readme", get_readme_content(server, game_token, repository))
+        put_file_on_repo(client, repository, "board.png", "New board", get_board_image(server, game_token))
+        put_file_on_repo(client, repository, "rack.png", "New rack", get_rack_image(server, game_token))
+        puts DETAILS
+        EORUBY
