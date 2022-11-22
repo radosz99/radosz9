@@ -9,6 +9,7 @@
 
 | Id | Type | Move / Letters to replace | Created words / New letters | Date | Points | Player | 
 | - | - | - | - | - | - | - |
+|0| INSERT | 7:H:waup | ['WAUP'] | 2022-11-22 11:16:31.267356 | 18 | Tom |
 # Possibly best moves:
 
 <details>
@@ -16,15 +17,15 @@
   
   | Id | Move | Issue title | Points | 
   | - | - | - | - |
-|1| f7:H:waup | scrabble&#124;move&#124;7:H:waup | 18 |
-|2| f7:G:waup | scrabble&#124;move&#124;7:G:waup | 18 |
-|3| f7:F:waup | scrabble&#124;move&#124;7:F:waup | 18 |
-|4| f7:E:waup | scrabble&#124;move&#124;7:E:waup | 18 |
-|5| f7:H:paw | scrabble&#124;move&#124;7:H:paw | 16 |
-|6| f7:G:paw | scrabble&#124;move&#124;7:G:paw | 16 |
-|7| f7:F:paw | scrabble&#124;move&#124;7:F:paw | 16 |
-|8| f7:H:pow | scrabble&#124;move&#124;7:H:pow | 16 |
-|9| f7:G:pow | scrabble&#124;move&#124;7:G:pow | 16 |
-|10| f7:F:pow | scrabble&#124;move&#124;7:F:pow | 16 |
+|1| fJ:5:faunae | scrabble&#124;move&#124;J:5:faunae | 19 |
+|2| fJ:5:fauna | scrabble&#124;move&#124;J:5:fauna | 18 |
+|3| fK:7:penaea | scrabble&#124;move&#124;K:7:penaea | 16 |
+|4| fK:5:eupnea | scrabble&#124;move&#124;K:5:eupnea | 16 |
+|5| fJ:5:faun | scrabble&#124;move&#124;J:5:faun | 15 |
+|6| fJ:5:feu | scrabble&#124;move&#124;J:5:feu | 14 |
+|7| fI:6:faunae | scrabble&#124;move&#124;I:6:faunae | 14 |
+|8| fK:6:apnea | scrabble&#124;move&#124;K:6:apnea | 14 |
+|9| fK:7:paean | scrabble&#124;move&#124;K:7:paean | 14 |
+|10| fI:6:fauna | scrabble&#124;move&#124;I:6:fauna | 13 |
 </details>
     
