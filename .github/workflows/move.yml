@@ -15,8 +15,9 @@ jobs:
       run: |
         echo "${{ github.event_name }}"
         echo "REPOSITORY=${{ github.repository }}" >> $GITHUB_ENV
-        echo "ISSUE_NUMBER=20" >> $GITHUB_ENV
-        echo "ISSUE_AUTHOR=radosz99" >> $GITHUB_ENV
+        echo "ISSUE_AUTHOR=${{ github.event.issue.user.login }}" >> $GITHUB_ENV
+        echo "ISSUE_NUMBER=${{ github.event.issue.number }}" >> $GITHUB_ENV
+        echo "ISSUE_TITLE=${{ github.event.issue.title }}" >> $GITHUB_ENV
         
     - uses: ruby/setup-ruby@v1
       with:
@@ -36,10 +37,9 @@ jobs:
         begin
           github_token = "${{ secrets.TOKEN_GITHUB }}"
           repository = "#{ENV.fetch('REPOSITORY')}"
-          board_path = "board.png"
           game_token = "${{ secrets.GAME_TOKEN }}"
           server = "${{ secrets.SERVER }}"
-          issue_title = "scrabble|move|H:5:GABDEP"
+          issue_title = ENV.fetch('ISSUE_TITLE')
           issue_number = ENV.fetch('ISSUE_NUMBER')
           issue_author = ENV.fetch('ISSUE_AUTHOR')
         end
@@ -133,7 +133,7 @@ jobs:
             puts "Nothing"
           end
         rescue StandardError => e
-          puts "The game title or move was unable to be parsed. - @#{e}"
+          puts "Unable to parse - @#{e}"
           exit(0)
         end
         client = Octokit::Client.new(:access_token => github_token)
