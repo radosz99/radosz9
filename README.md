@@ -9,6 +9,7 @@
 
 | Id | Type | Move / Letters to replace | Created words / New letters | Date | Points | Player | 
 | - | - | - | - | - | - | - |
+|6| INSERT | 9:F:zambal | ['ZAMBAL'] | 2022-11-22 22:48:08.529538 | 39 | Tom |
 |5| INSERT | 2:H:ludwig | ['LUDWIG'] | 2022-11-22 22:47:07.807384 | 24 | Jerry |
 |4| INSERT | 0:H:redoute | ['REDOUTE'] | 2022-11-22 22:45:51.983294 | 24 | Tom |
 |3| INSERT | L:0:unitage | ['UNITAGE'] | 2022-11-22 22:44:48.433271 | 18 | Jerry |
@@ -22,15 +23,15 @@
   
   | Id | Move | Issue title | Points | 
   | - | - | - | - |
-|1| f9:F:zambal | scrabble&#124;move&#124;9:F:zambal | 39 |
-|2| f10:G:amzel | scrabble&#124;move&#124;10:G:amzel | 32 |
-|3| f10:G:mazel | scrabble&#124;move&#124;10:G:mazel | 32 |
-|4| f10:J:ezba | scrabble&#124;move&#124;10:J:ezba | 30 |
-|5| f10:I:mezo | scrabble&#124;move&#124;10:I:mezo | 30 |
-|6| f10:H:zoeal | scrabble&#124;move&#124;10:H:zoeal | 28 |
-|7| f10:I:zeal | scrabble&#124;move&#124;10:I:zeal | 26 |
-|8| f10:H:zoea | scrabble&#124;move&#124;10:H:zoea | 26 |
-|9| f10:I:zea | scrabble&#124;move&#124;10:I:zea | 24 |
-|10| f10:I:zel | scrabble&#124;move&#124;10:I:zel | 24 |
+|1| fH:9:motifs | scrabble&#124;move&#124;H:9:motifs | 36 |
+|2| fH:9:misfit | scrabble&#124;move&#124;H:9:misfit | 36 |
+|3| fF:9:zitis | scrabble&#124;move&#124;F:9:zitis | 16 |
+|4| fF:6:fitz | scrabble&#124;move&#124;F:6:fitz | 16 |
+|5| fF:9:zoist | scrabble&#124;move&#124;F:9:zoist | 16 |
+|6| fF:7:fiz | scrabble&#124;move&#124;F:7:fiz | 15 |
+|7| fF:7:sfz | scrabble&#124;move&#124;F:7:sfz | 15 |
+|8| fF:8:fz | scrabble&#124;move&#124;F:8:fz | 14 |
+|9| fF:9:zits | scrabble&#124;move&#124;F:9:zits | 13 |
+|10| fF:9:ziti | scrabble&#124;move&#124;F:9:ziti | 13 |
 </details>
     
