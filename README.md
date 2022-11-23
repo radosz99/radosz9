@@ -9,6 +9,7 @@
 
 | Id | Type | Move / Letters to replace | Created words / New letters | Date | Points | Player | 
 | - | - | - | - | - | - | - |
+|9| INSERT | C:0:adfix | ['ADFIX'] | 2022-11-23 17:18:42.912985 | 32 | Jerry |
 |8| INSERT | 3:C:iodate | ['IODATE'] | 2022-11-23 16:55:49.083021 | 14 | Tom |
 |7| INSERT | 9:J:quito | ['QUITO'] | 2022-11-23 15:52:31.935154 | 36 | Jerry |
 |6| INSERT | 2:H:juice | ['JUICE'] | 2022-11-23 15:51:27.820427 | 15 | Tom |
@@ -25,15 +26,15 @@
   
   | Id | Move | Issue link | Points |
   | - | - | - | - |  
-|1| C:0:faxing | [scrabble&#124;move&#124;C:0:faxing](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CC%3A0%3Afaxing&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 34 
-|2| C:0:adfix | [scrabble&#124;move&#124;C:0:adfix](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CC%3A0%3Aadfix&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 32 
-|3| J:0:axin | [scrabble&#124;move&#124;J:0:axin](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CJ%3A0%3Aaxin&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 27 
-|4| C:1:axing | [scrabble&#124;move&#124;C:1:axing](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CC%3A1%3Aaxing&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 26 
-|5| C:2:fix | [scrabble&#124;move&#124;C:2:fix](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CC%3A2%3Afix&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 26 
-|6| L:0:axed | [scrabble&#124;move&#124;L:0:axed](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CL%3A0%3Aaxed&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 26 
-|7| J:1:xi | [scrabble&#124;move&#124;J:1:xi](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CJ%3A1%3Axi&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 25 
-|8| L:1:dex | [scrabble&#124;move&#124;L:1:dex](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CL%3A1%3Adex&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 22 
-|9| L:1:xed | [scrabble&#124;move&#124;L:1:xed](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CL%3A1%3Axed&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 22 
-|10| C:2:fingan | [scrabble&#124;move&#124;C:2:fingan](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CC%3A2%3Afingan&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 22 
+|1| 0:A:slays | [scrabble&#124;move&#124;0:A:slays](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C0%3AA%3Aslays&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 36 
+|2| 0:A:slay | [scrabble&#124;move&#124;0:A:slay](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C0%3AA%3Aslay&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 33 
+|3| 0:A:lyas | [scrabble&#124;move&#124;0:A:lyas](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C0%3AA%3Alyas&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 24 
+|4| 1:B:idyls | [scrabble&#124;move&#124;1:B:idyls](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C1%3AB%3Aidyls&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 22 
+|5| 1:B:odyls | [scrabble&#124;move&#124;1:B:odyls](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C1%3AB%3Aodyls&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 22 
+|6| E:3:dossy | [scrabble&#124;move&#124;E:3:dossy](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CE%3A3%3Adossy&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 18 
+|7| E:3:doily | [scrabble&#124;move&#124;E:3:doily](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CE%3A3%3Adoily&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 18 
+|8| E:2:idyls | [scrabble&#124;move&#124;E:2:idyls](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CE%3A2%3Aidyls&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 18 
+|9| 0:A:sials | [scrabble&#124;move&#124;0:A:sials](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C0%3AA%3Asials&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 18 
+|10| E:2:odyls | [scrabble&#124;move&#124;E:2:odyls](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CE%3A2%3Aodyls&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 18 
 </details>
     
