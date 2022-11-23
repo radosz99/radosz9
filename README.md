@@ -9,6 +9,7 @@
 
 | Id | Type | Move / Letters to replace | Created words / New letters | Date | Points | Player | 
 | - | - | - | - | - | - | - |
+|8| INSERT | H:9:morone | ['MORONE'] | 2022-11-23 11:21:06.472298 | 27 | Tom |
 |7| REPLACE | FOS | ITV | 2022-11-22 22:50:00.853392 | 0 | Jerry |
 |6| INSERT | 9:F:zambal | ['ZAMBAL'] | 2022-11-22 22:48:08.529538 | 39 | Tom |
 |5| INSERT | 2:H:ludwig | ['LUDWIG'] | 2022-11-22 22:47:07.807384 | 24 | Jerry |
@@ -24,15 +25,15 @@
   
   | Id | Move | Issue title | Points | 
   | - | - | - | - |
-|1| fH:9:morone | scrabble&#124;move&#124;H:9:morone | 27 |
-|2| fH:9:monroe | scrabble&#124;move&#124;H:9:monroe | 27 |
-|3| fH:9:mooner | scrabble&#124;move&#124;H:9:mooner | 27 |
-|4| fF:5:bronzen | scrabble&#124;move&#124;F:5:bronzen | 24 |
-|5| fF:5:bronze | scrabble&#124;move&#124;F:5:bronze | 23 |
-|6| fF:5:rebozo | scrabble&#124;move&#124;F:5:rebozo | 19 |
-|7| fF:8:ozoner | scrabble&#124;move&#124;F:8:ozoner | 17 |
-|8| fF:6:bonzer | scrabble&#124;move&#124;F:6:bonzer | 17 |
-|9| fF:6:boozer | scrabble&#124;move&#124;F:6:boozer | 17 |
-|10| fF:6:nonzero | scrabble&#124;move&#124;F:6:nonzero | 16 |
+|1| f13:E:ivin | scrabble&#124;move&#124;13:E:ivin | 15 |
+|2| fF:7:viz | scrabble&#124;move&#124;F:7:viz | 15 |
+|3| f13:F:vint | scrabble&#124;move&#124;13:F:vint | 15 |
+|4| f13:F:vino | scrabble&#124;move&#124;13:F:vino | 15 |
+|5| f13:F:von | scrabble&#124;move&#124;13:F:von | 14 |
+|6| f13:F:vin | scrabble&#124;move&#124;13:F:vin | 14 |
+|7| f13:H:nov | scrabble&#124;move&#124;13:H:nov | 14 |
+|8| fF:9:ziti | scrabble&#124;move&#124;F:9:ziti | 13 |
+|9| fF:9:zit | scrabble&#124;move&#124;F:9:zit | 12 |
+|10| f12:G:tov | scrabble&#124;move&#124;12:G:tov | 11 |
 </details>
     
