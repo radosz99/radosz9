@@ -150,6 +150,9 @@ jobs:
           client.close_issue(repository, issue_number)
         rescue StandardError => e
           puts "Unable to parse - @#{e}"
+          client.create_issue_reaction(repository, issue_number, 'confused', {accept: @preview_headers})
+          client.add_comment(repository, issue_number, "Unable to parse - @#{e}")
+          client.close_issue(repository, issue_number)
           exit(0)
         end
         EORUBY
