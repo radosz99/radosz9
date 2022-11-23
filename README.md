@@ -9,6 +9,7 @@
 
 | Id | Type | Move / Letters to replace | Created words / New letters | Date | Points | Player | 
 | - | - | - | - | - | - | - |
+|16| INSERT | 9:A:rebottle | ['REBOTTLE'] | 2022-11-23 17:47:06.079591 | 64 | Tom |
 |15| INSERT | 13:J:chevet | ['CHEVET'] | 2022-11-23 17:45:57.058216 | 40 | Jerry |
 |14| INSERT | 13:B:wagyu | ['WAGYU'] | 2022-11-23 17:44:30.215168 | 28 | Tom |
 |13| INSERT | D:7:avowing | ['AVOWING'] | 2022-11-23 17:43:08.144937 | 28 | Jerry |
@@ -32,15 +33,15 @@
   
   | Id | Move | Issue link | Points |
   | - | - | - | - |  
-|1| 9:A:rebottle | [scrabble&#124;move&#124;9:A:rebottle](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C9%3AA%3Arebottle&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 64 
-|2| 10:D:weber | [scrabble&#124;move&#124;10:D:weber](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C10%3AD%3Aweber&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 20 
-|3| 10:B:bewet | [scrabble&#124;move&#124;10:B:bewet](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C10%3AB%3Abewet&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 20 
-|4| 10:D:wetter | [scrabble&#124;move&#124;10:D:wetter](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C10%3AD%3Awetter&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 18 
-|5| 10:D:welter | [scrabble&#124;move&#124;10:D:welter](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C10%3AD%3Awelter&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 18 
-|6| L:0:beet | [scrabble&#124;move&#124;L:0:beet](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CL%3A0%3Abeet&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 18 
-|7| L:0:blee | [scrabble&#124;move&#124;L:0:blee](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CL%3A0%3Ablee&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 18 
-|8| L:0:beer | [scrabble&#124;move&#124;L:0:beer](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CL%3A0%3Abeer&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 18 
-|9| L:0:blet | [scrabble&#124;move&#124;L:0:blet](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CL%3A0%3Ablet&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 18 
-|10| L:0:bree | [scrabble&#124;move&#124;L:0:bree](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CL%3A0%3Abree&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 18 
+|1| L:0:pies | [scrabble&#124;move&#124;L:0:pies](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CL%3A0%3Apies&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 18 
+|2| L:0:peen | [scrabble&#124;move&#124;L:0:peen](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CL%3A0%3Apeen&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 18 
+|3| L:0:piet | [scrabble&#124;move&#124;L:0:piet](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CL%3A0%3Apiet&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 18 
+|4| L:0:pees | [scrabble&#124;move&#124;L:0:pees](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CL%3A0%3Apees&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 18 
+|5| L:0:epee | [scrabble&#124;move&#124;L:0:epee](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CL%3A0%3Aepee&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 14 
+|6| L:0:seep | [scrabble&#124;move&#124;L:0:seep](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CL%3A0%3Aseep&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 14 
+|7| L:0:spet | [scrabble&#124;move&#124;L:0:spet](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CL%3A0%3Aspet&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 14 
+|8| N:4:spinto | [scrabble&#124;move&#124;N:4:spinto](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CN%3A4%3Aspinto&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 14 
+|9| L:0:neep | [scrabble&#124;move&#124;L:0:neep](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CL%3A0%3Aneep&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 14 
+|10| L:0:step | [scrabble&#124;move&#124;L:0:step](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CL%3A0%3Astep&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 14 
 </details>
     
