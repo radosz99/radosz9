@@ -9,6 +9,7 @@
 
 | Id | Type | Move / Letters to replace | Created words / New letters | Date | Points | Player | 
 | - | - | - | - | - | - | - |
+|9| INSERT | 13:E:ivin | ['IVIN'] | 2022-11-23 11:22:16.666702 | 15 | Jerry |
 |8| INSERT | H:9:morone | ['MORONE'] | 2022-11-23 11:21:06.472298 | 27 | Tom |
 |7| REPLACE | FOS | ITV | 2022-11-22 22:50:00.853392 | 0 | Jerry |
 |6| INSERT | 9:F:zambal | ['ZAMBAL'] | 2022-11-22 22:48:08.529538 | 39 | Tom |
@@ -25,15 +26,15 @@
   
   | Id | Move | Issue title | Points | 
   | - | - | - | - |
-|1| f13:E:ivin | scrabble&#124;move&#124;13:E:ivin | 15 |
-|2| fF:7:viz | scrabble&#124;move&#124;F:7:viz | 15 |
-|3| f13:F:vint | scrabble&#124;move&#124;13:F:vint | 15 |
-|4| f13:F:vino | scrabble&#124;move&#124;13:F:vino | 15 |
-|5| f13:F:von | scrabble&#124;move&#124;13:F:von | 14 |
-|6| f13:F:vin | scrabble&#124;move&#124;13:F:vin | 14 |
-|7| f13:H:nov | scrabble&#124;move&#124;13:H:nov | 14 |
-|8| fF:9:ziti | scrabble&#124;move&#124;F:9:ziti | 13 |
-|9| fF:9:zit | scrabble&#124;move&#124;F:9:zit | 12 |
-|10| f12:G:tov | scrabble&#124;move&#124;12:G:tov | 11 |
+|1| fE:10:saqib | scrabble&#124;move&#124;E:10:saqib | 32 |
+|2| fN:0:eq | scrabble&#124;move&#124;N:0:eq | 22 |
+|3| fE:10:sahib | scrabble&#124;move&#124;E:10:sahib | 20 |
+|4| fF:12:qv | scrabble&#124;move&#124;F:12:qv | 14 |
+|5| fE:10:shai | scrabble&#124;move&#124;E:10:shai | 14 |
+|6| fE:10:nabis | scrabble&#124;move&#124;E:10:nabis | 14 |
+|7| fE:10:sabin | scrabble&#124;move&#124;E:10:sabin | 14 |
+|8| fE:10:basin | scrabble&#124;move&#124;E:10:basin | 14 |
+|9| fE:10:basis | scrabble&#124;move&#124;E:10:basis | 14 |
+|10| fE:10:absis | scrabble&#124;move&#124;E:10:absis | 14 |
 </details>
     
