@@ -9,6 +9,7 @@
 
 | Id | Type | Move / Letters to replace | Created words / New letters | Date | Points | Player | 
 | - | - | - | - | - | - | - |
+|12| INSERT | 7:A:sodain | ['SODAIN'] | 2022-11-23 17:42:12.866933 | 24 | Tom |
 |11| INSERT | F:2:gagmen | ['GAGMEN'] | 2022-11-23 17:41:02.813798 | 16 | Jerry |
 |10| INSERT | 0:A:slays | ['SLAYS'] | 2022-11-23 17:33:59.564305 | 36 | Tom |
 |9| INSERT | C:0:adfix | ['ADFIX'] | 2022-11-23 17:18:42.912985 | 32 | Jerry |
@@ -28,15 +29,15 @@
   
   | Id | Move | Issue link | Points |
   | - | - | - | - |  
-|1| 7:A:sodain | [scrabble&#124;move&#124;7:A:sodain](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C7%3AA%3Asodain&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 24 
-|2| L:0:does | [scrabble&#124;move&#124;L:0:does](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CL%3A0%3Adoes&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 14 
-|3| L:0:diet | [scrabble&#124;move&#124;L:0:diet](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CL%3A0%3Adiet&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 14 
-|4| L:0:daes | [scrabble&#124;move&#124;L:0:daes](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CL%3A0%3Adaes&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 14 
-|5| L:0:dies | [scrabble&#124;move&#124;L:0:dies](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CL%3A0%3Adies&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 14 
-|6| 14:I:toadish | [scrabble&#124;move&#124;14:I:toadish](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C14%3AI%3Atoadish&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 13 
-|7| L:0:sted | [scrabble&#124;move&#124;L:0:sted](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CL%3A0%3Asted&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 12 
-|8| L:0:taed | [scrabble&#124;move&#124;L:0:taed](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CL%3A0%3Ataed&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 12 
-|9| L:0:ides | [scrabble&#124;move&#124;L:0:ides](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CL%3A0%3Aides&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 12 
-|10| L:0:odea | [scrabble&#124;move&#124;L:0:odea](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CL%3A0%3Aodea&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 12 
+|1| D:7:avowing | [scrabble&#124;move&#124;D:7:avowing](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CD%3A7%3Aavowing&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 28 
+|2| L:0:view | [scrabble&#124;move&#124;L:0:view](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CL%3A0%3Aview&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 28 
+|3| L:0:when | [scrabble&#124;move&#124;L:0:when](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CL%3A0%3Awhen&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 28 
+|4| D:6:having | [scrabble&#124;move&#124;D:6:having](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CD%3A6%3Ahaving&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 26 
+|5| D:6:hawing | [scrabble&#124;move&#124;D:6:hawing](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CD%3A6%3Ahawing&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 26 
+|6| D:6:waving | [scrabble&#124;move&#124;D:6:waving](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CD%3A6%3Awaving&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 26 
+|7| 13:K:wight | [scrabble&#124;move&#124;13:K:wight](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C13%3AK%3Awight&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 24 
+|8| C:7:dowing | [scrabble&#124;move&#124;C:7:dowing](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CC%3A7%3Adowing&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 24 
+|9| B:5:hooving | [scrabble&#124;move&#124;B:5:hooving](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CB%3A5%3Ahooving&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 24 
+|10| C:7:doving | [scrabble&#124;move&#124;C:7:doving](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CC%3A7%3Adoving&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 24 
 </details>
     
