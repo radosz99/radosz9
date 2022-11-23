@@ -138,17 +138,17 @@ jobs:
           end
           puts DETAILS
           if response.kind_of? Net::HTTPSuccess
-            octokit.create_issue_reaction(repository, issue_number, 'hooray', {accept: @preview_headers})
+            client.create_issue_reaction(repository, issue_number, 'hooray', {accept: @preview_headers})
             put_file_on_repo(client, repository, "README.md", "New readme", get_readme_content(server, game_token, repository))
             put_file_on_repo(client, repository, "board.png", "New board", get_board_image(server, game_token))
             put_file_on_repo(client, repository, "rack.png", "New rack", get_rack_image(server, game_token))
           else
-            octokit.create_issue_reaction(repository, issue_number, 'confused', {accept: @preview_headers})
+            client.create_issue_reaction(repository, issue_number, 'confused', {accept: @preview_headers})
           end
           parsed_json = JSON.parse(response.body)
           detail = parsed_json['detail']
-          octokit.add_comment(repository, issue_number, detail)
-          octokit.close_issue(repository, issue_number)
+          client.add_comment(repository, issue_number, detail)
+          client.close_issue(repository, issue_number)
         rescue StandardError => e
           puts "Unable to parse - @#{e}"
           exit(0)
