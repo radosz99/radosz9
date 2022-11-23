@@ -1,4 +1,4 @@
-name: "Chess"
+name: "Scrabble"
 
 on:
   issues:
@@ -23,7 +23,7 @@ jobs:
       with:
         ruby-version: 2.7
       
-    - name: Setup Gems
+    - name: Setup
       run: |
         gem install octokit -v 5.1.0 -N --silent
         
@@ -34,6 +34,13 @@ jobs:
         require 'octokit'
         require 'uri'
         require 'net/http'
+        require 'json'
+        
+        @preview_headers = [
+            ::Octokit::Preview::PREVIEW_TYPES[:reactions],
+            ::Octokit::Preview::PREVIEW_TYPES[:integrations]
+          ]
+          
         begin
           github_token = "${{ secrets.TOKEN_GITHUB }}"
           repository = "#{ENV.fetch('REPOSITORY')}"
@@ -118,27 +125,32 @@ jobs:
           title_split = issue_title.split('|')
           SCRABBLE_ACTION_TYPE   = title_split[1].to_s
           DETAILS  = title_split[2].to_s
-          raise StandardError.new 'replace|move|skip are the only allowed commands' unless ['replace','move', 'skip'].include? SCRABBLE_ACTION_TYPE
+          client = Octokit::Client.new(:access_token => github_token)
+          raise StandardError.new 'replace|move are the only allowed commands' unless ['replace','move'].include? SCRABBLE_ACTION_TYPE
           if SCRABBLE_ACTION_TYPE == 'move'
             puts "Move action type"
             response = make_move(server, game_token, DETAILS, issue_author, issue_number, issue_title)
             puts response
-          elsif SCRABBLE_ACTION_TYPE == 'skip'
-            puts "Skip action type, has not been implemented yet"
           elsif SCRABBLE_ACTION_TYPE == 'replace'
             puts "Replace action type"
             response = replace_letters(server, game_token, DETAILS, issue_author, issue_number, issue_title)
             puts response
-          else
-            puts "Nothing"
           end
+          puts DETAILS
+          if response.kind_of? Net::HTTPSuccess
+            octokit.create_issue_reaction(repository, issue_number, 'hooray', {accept: @preview_headers})
+            put_file_on_repo(client, repository, "README.md", "New readme", get_readme_content(server, game_token, repository))
+            put_file_on_repo(client, repository, "board.png", "New board", get_board_image(server, game_token))
+            put_file_on_repo(client, repository, "rack.png", "New rack", get_rack_image(server, game_token))
+          else
+            octokit.create_issue_reaction(repository, issue_number, 'confused', {accept: @preview_headers})
+          end
+          parsed_json = JSON.parse(response.body)
+          detail = parsed_json['detail']
+          octokit.add_comment(repository, issue_number, detail)
+          octokit.close_issue(repository, issue_number)
         rescue StandardError => e
           puts "Unable to parse - @#{e}"
           exit(0)
         end
-        client = Octokit::Client.new(:access_token => github_token)
-        put_file_on_repo(client, repository, "README.md", "New readme", get_readme_content(server, game_token, repository))
-        put_file_on_repo(client, repository, "board.png", "New board", get_board_image(server, game_token))
-        put_file_on_repo(client, repository, "rack.png", "New rack", get_rack_image(server, game_token))
-        puts DETAILS
         EORUBY
