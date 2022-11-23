@@ -9,6 +9,7 @@
 
 | Id | Type | Move / Letters to replace | Created words / New letters | Date | Points | Player | 
 | - | - | - | - | - | - | - |
+|18| INSERT | 0:L:prom | ['PROM'] | 2022-11-23 17:49:02.575130 | 24 | Tom |
 |17| INSERT | L:0:pies | ['PIES'] | 2022-11-23 17:48:04.926420 | 18 | Jerry |
 |16| INSERT | 9:A:rebottle | ['REBOTTLE'] | 2022-11-23 17:47:06.079591 | 64 | Tom |
 |15| INSERT | 13:J:chevet | ['CHEVET'] | 2022-11-23 17:45:57.058216 | 40 | Jerry |
@@ -34,15 +35,15 @@
   
   | Id | Move | Issue link | Points |
   | - | - | - | - |  
-|1| 0:L:pram | [scrabble&#124;move&#124;0:L:pram](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C0%3AL%3Apram&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 24 
-|2| 0:L:prob | [scrabble&#124;move&#124;0:L:prob](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C0%3AL%3Aprob&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 24 
-|3| 0:L:palm | [scrabble&#124;move&#124;0:L:palm](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C0%3AL%3Apalm&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 24 
-|4| 0:L:prom | [scrabble&#124;move&#124;0:L:prom](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C0%3AL%3Aprom&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 24 
-|5| 0:L:pomo | [scrabble&#124;move&#124;0:L:pomo](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C0%3AL%3Apomo&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 24 
-|6| 0:L:polo | [scrabble&#124;move&#124;0:L:polo](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C0%3AL%3Apolo&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 18 
-|7| 0:L:proa | [scrabble&#124;move&#124;0:L:proa](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C0%3AL%3Aproa&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 18 
-|8| 0:L:prao | [scrabble&#124;move&#124;0:L:prao](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C0%3AL%3Aprao&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 18 
-|9| 0:L:pool | [scrabble&#124;move&#124;0:L:pool](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C0%3AL%3Apool&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 18 
-|10| 0:L:poor | [scrabble&#124;move&#124;0:L:poor](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C0%3AL%3Apoor&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 18 
+|1| H:9:entera | [scrabble&#124;move&#124;H:9:entera](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CH%3A9%3Aentera&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 21 
+|2| H:9:eterne | [scrabble&#124;move&#124;H:9:eterne](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CH%3A9%3Aeterne&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 21 
+|3| H:9:entree | [scrabble&#124;move&#124;H:9:entree](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CH%3A9%3Aentree&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 21 
+|4| N:0:ornate | [scrabble&#124;move&#124;N:0:ornate](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CN%3A0%3Aornate&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 16 
+|5| 4:A:rex | [scrabble&#124;move&#124;4:A:rex](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C4%3AA%3Arex&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 10 
+|6| 4:A:rax | [scrabble&#124;move&#124;4:A:rax](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C4%3AA%3Arax&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 10 
+|7| N:0:orant | [scrabble&#124;move&#124;N:0:orant](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CN%3A0%3Aorant&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 10 
+|8| N:0:orate | [scrabble&#124;move&#124;N:0:orate](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CN%3A0%3Aorate&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 10 
+|9| N:0:oater | [scrabble&#124;move&#124;N:0:oater](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CN%3A0%3Aoater&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 10 
+|10| 4:A:tex | [scrabble&#124;move&#124;4:A:tex](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C4%3AA%3Atex&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 10 
 </details>
     
