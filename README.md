@@ -9,6 +9,7 @@
 
 | Id | Type | Move / Letters to replace | Created words / New letters | Date | Points | Player | 
 | - | - | - | - | - | - | - |
+|14| INSERT | 13:B:wagyu | ['WAGYU'] | 2022-11-23 17:44:30.215168 | 28 | Tom |
 |13| INSERT | D:7:avowing | ['AVOWING'] | 2022-11-23 17:43:08.144937 | 28 | Jerry |
 |12| INSERT | 7:A:sodain | ['SODAIN'] | 2022-11-23 17:42:12.866933 | 24 | Tom |
 |11| INSERT | F:2:gagmen | ['GAGMEN'] | 2022-11-23 17:41:02.813798 | 16 | Jerry |
@@ -30,15 +31,15 @@
   
   | Id | Move | Issue link | Points |
   | - | - | - | - |  
-|1| 13:B:wagyu | [scrabble&#124;move&#124;13:B:wagyu](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C13%3AB%3Awagyu&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 28 
-|2| L:0:ybet | [scrabble&#124;move&#124;L:0:ybet](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CL%3A0%3Aybet&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 26 
-|3| 10:B:bawty | [scrabble&#124;move&#124;10:B:bawty](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C10%3AB%3Abawty&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 26 
-|4| 12:A:tawney | [scrabble&#124;move&#124;12:A:tawney](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C12%3AA%3Atawney&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 24 
-|5| L:0:weet | [scrabble&#124;move&#124;L:0:weet](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CL%3A0%3Aweet&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 22 
-|6| 12:A:tawny | [scrabble&#124;move&#124;12:A:tawny](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C12%3AA%3Atawny&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 22 
-|7| 13:B:baguet | [scrabble&#124;move&#124;13:B:baguet](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C13%3AB%3Abaguet&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 22 
-|8| 12:B:wanty | [scrabble&#124;move&#124;12:B:wanty](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C12%3AB%3Awanty&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 22 
-|9| 12:B:waney | [scrabble&#124;move&#124;12:B:waney](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C12%3AB%3Awaney&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 22 
-|10| 12:B:banty | [scrabble&#124;move&#124;12:B:banty](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C12%3AB%3Abanty&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 20 
+|1| 13:J:chevet | [scrabble&#124;move&#124;13:J:chevet](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C13%3AJ%3Achevet&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 40 
+|2| 10:A:chewies | [scrabble&#124;move&#124;10:A:chewies](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C10%3AA%3Achewies&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 30 
+|3| 10:A:chewie | [scrabble&#124;move&#124;10:A:chewie](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C10%3AA%3Achewie&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 28 
+|4| 10:D:wiches | [scrabble&#124;move&#124;10:D:wiches](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C10%3AD%3Awiches&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 28 
+|5| 10:A:chews | [scrabble&#124;move&#124;10:A:chews](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C10%3AA%3Achews&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 26 
+|6| 10:D:wich | [scrabble&#124;move&#124;10:D:wich](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C10%3AD%3Awich&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 24 
+|7| L:0:vies | [scrabble&#124;move&#124;L:0:vies](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CL%3A0%3Avies&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 22 
+|8| L:0:hies | [scrabble&#124;move&#124;L:0:hies](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CL%3A0%3Ahies&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 22 
+|9| L:0:vees | [scrabble&#124;move&#124;L:0:vees](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CL%3A0%3Avees&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 22 
+|10| 10:D:wives | [scrabble&#124;move&#124;10:D:wives](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C10%3AD%3Awives&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 22 
 </details>
     
