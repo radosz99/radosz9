@@ -9,6 +9,7 @@
 
 | Id | Type | Move / Letters to replace | Created words / New letters | Date | Points | Player | 
 | - | - | - | - | - | - | - |
+|0| INSERT | 7:H:capa | ['CAPA'] | 2022-11-23 19:49:57.565294 | 16 | Tom |
 # Possibly best moves:
 
 <details>
@@ -16,15 +17,15 @@
   
   | Id | Move | Issue link | Points |
   | - | - | - | - |  
-|1| 7:H:capa | [scrabble&#124;move&#124;7:H:capa](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C7%3AH%3Acapa&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 16 
-|2| 7:G:capa | [scrabble&#124;move&#124;7:G:capa](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C7%3AG%3Acapa&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 16 
-|3| 7:F:capa | [scrabble&#124;move&#124;7:F:capa](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C7%3AF%3Acapa&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 16 
-|4| 7:E:capa | [scrabble&#124;move&#124;7:E:capa](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C7%3AE%3Acapa&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 16 
-|5| 7:H:capi | [scrabble&#124;move&#124;7:H:capi](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C7%3AH%3Acapi&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 16 
-|6| 7:G:capi | [scrabble&#124;move&#124;7:G:capi](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C7%3AG%3Acapi&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 16 
-|7| 7:F:capi | [scrabble&#124;move&#124;7:F:capi](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C7%3AF%3Acapi&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 16 
-|8| 7:E:capi | [scrabble&#124;move&#124;7:E:capi](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C7%3AE%3Acapi&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 16 
-|9| 7:H:capo | [scrabble&#124;move&#124;7:H:capo](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C7%3AH%3Acapo&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 16 
-|10| 7:G:capo | [scrabble&#124;move&#124;7:G:capo](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C7%3AG%3Acapo&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 16 
+|1| K:4:talaq | [scrabble&#124;move&#124;K:4:talaq](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CK%3A4%3Atalaq&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 28 
+|2| K:6:talaq | [scrabble&#124;move&#124;K:6:talaq](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CK%3A6%3Atalaq&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 28 
+|3| I:6:qadi | [scrabble&#124;move&#124;I:6:qadi](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CI%3A6%3Aqadi&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 26 
+|4| I:6:qaid | [scrabble&#124;move&#124;I:6:qaid](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CI%3A6%3Aqaid&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 25 
+|5| I:4:talaq | [scrabble&#124;move&#124;I:4:talaq](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CI%3A4%3Atalaq&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 25 
+|6| I:6:qat | [scrabble&#124;move&#124;I:6:qat](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CI%3A6%3Aqat&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 23 
+|7| I:6:talaq | [scrabble&#124;move&#124;I:6:talaq](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CI%3A6%3Atalaq&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 16 
+|8| K:6:qaid | [scrabble&#124;move&#124;K:6:qaid](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CK%3A6%3Aqaid&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 14 
+|9| K:6:qadi | [scrabble&#124;move&#124;K:6:qadi](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CK%3A6%3Aqadi&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 14 
+|10| K:4:datal | [scrabble&#124;move&#124;K:4:datal](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CK%3A4%3Adatal&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 12 
 </details>
     
