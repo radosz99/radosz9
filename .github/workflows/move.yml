@@ -75,7 +75,7 @@ jobs:
         end
         def init_game(server)
           uri = URI("#{server}/initialize")
-          return make_get_request(uri)
+          return Net::HTTP.get_response(uri)
         end
         def get_board_image(server, game_token)
           uri = URI("#{server}/board-image/#{game_token}")
@@ -144,7 +144,7 @@ jobs:
           elsif SCRABBLE_ACTION_TYPE == 'init'
             puts "New game"
             response = init_game(server)
-            parsed_json = JSON.parse(response)
+            parsed_json = JSON.parse(response.body)
             new_game_token = parsed_json['game_token']
             
             github_key = client.get_public_key(repository)
