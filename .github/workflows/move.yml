@@ -26,6 +26,7 @@ jobs:
     - name: Setup
       run: |
         gem install octokit -v 5.1.0 -N --silent
+        gem install rbnacl --silent
         
     - name: Play
       run: |
