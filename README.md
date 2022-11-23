@@ -9,23 +9,23 @@
 
 | Id | Type | Move / Letters to replace | Created words / New letters | Date | Points | Player | 
 | - | - | - | - | - | - | - |
-|0| INSERT | 7:H:situate | ['SITUATE'] | 2022-11-23 13:00:00.337296 | 66 | Tom |
+|0| INSERT | 7:H:enfin | ['ENFIN'] | 2022-11-23 13:16:55.913857 | 18 | Tom |
 # Possibly best moves:
 
 <details>
   <summary>Spoiler warning</summary>
   
-  | Id | Move | Issue title | Points | Link |
-  | - | - | - | - | - | 
-|1| N:1:monishes | scrabble&#124;move&#124;N:1:monishes | 80 | https://github.com/radosz99/radosz99/issues/new?title=scrabble|move|N:1:monishes&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.
-|2| N:2:hominess | scrabble&#124;move&#124;N:2:hominess | 67 | https://github.com/radosz99/radosz99/issues/new?title=scrabble|move|N:2:hominess&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.
-|3| N:1:shimose | scrabble&#124;move&#124;N:1:shimose | 28 | https://github.com/radosz99/radosz99/issues/new?title=scrabble|move|N:1:shimose&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.
-|4| L:6:hansoms | scrabble&#124;move&#124;L:6:hansoms | 24 | https://github.com/radosz99/radosz99/issues/new?title=scrabble|move|L:6:hansoms&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.
-|5| L:5:shamois | scrabble&#124;move&#124;L:5:shamois | 24 | https://github.com/radosz99/radosz99/issues/new?title=scrabble|move|L:5:shamois&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.
-|6| M:7:tomish | scrabble&#124;move&#124;M:7:tomish | 24 | https://github.com/radosz99/radosz99/issues/new?title=scrabble|move|M:7:tomish&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.
-|7| M:6:stonish | scrabble&#124;move&#124;M:6:stonish | 24 | https://github.com/radosz99/radosz99/issues/new?title=scrabble|move|M:6:stonish&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.
-|8| M:2:monists | scrabble&#124;move&#124;M:2:monists | 22 | https://github.com/radosz99/radosz99/issues/new?title=scrabble|move|M:2:monists&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.
-|9| L:6:hansom | scrabble&#124;move&#124;L:6:hansom | 22 | https://github.com/radosz99/radosz99/issues/new?title=scrabble|move|L:6:hansom&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.
-|10| L:3:sisham | scrabble&#124;move&#124;L:3:sisham | 22 | https://github.com/radosz99/radosz99/issues/new?title=scrabble|move|L:3:sisham&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.
+  | Id | Move | Issue link | Points |
+  | - | - | - | - |  
+|1| K:4:roridula | [scrabble&#124;move&#124;K:4:roridula](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CK%3A4%3Aroridula&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 86 
+|2| J:7:foulard | [scrabble&#124;move&#124;J:7:foulard](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CJ%3A7%3Afoulard&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 17 
+|3| L:7:nodular | [scrabble&#124;move&#124;L:7:nodular](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CL%3A7%3Anodular&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 16 
+|4| L:2:arround | [scrabble&#124;move&#124;L:2:arround](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CL%3A2%3Aarround&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 16 
+|5| L:2:lardon | [scrabble&#124;move&#124;L:2:lardon](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CL%3A2%3Alardon&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 14 
+|6| L:2:lordan | [scrabble&#124;move&#124;L:2:lordan](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CL%3A2%3Alordan&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 14 
+|7| K:3:laroid | [scrabble&#124;move&#124;K:3:laroid](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CK%3A3%3Alaroid&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 14 
+|8| L:3:roland | [scrabble&#124;move&#124;L:3:roland](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CL%3A3%3Aroland&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 14 
+|9| L:3:around | [scrabble&#124;move&#124;L:3:around](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CL%3A3%3Aaround&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 14 
+|10| L:2:lurdan | [scrabble&#124;move&#124;L:2:lurdan](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CL%3A2%3Alurdan&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 14 
 </details>
     
