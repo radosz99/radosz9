@@ -129,14 +129,13 @@ jobs:
           raise StandardError.new 'replace|move are the only allowed commands' unless ['replace','move'].include? SCRABBLE_ACTION_TYPE
           if SCRABBLE_ACTION_TYPE == 'move'
             puts "Move action type"
-            response = make_move(server, game_token, DETAILS, issue_author, issue_number, issue_title)
-            puts response
+            response_body = make_move(server, game_token, DETAILS, issue_author, issue_number, issue_title)
           elsif SCRABBLE_ACTION_TYPE == 'replace'
             puts "Replace action type"
-            response = replace_letters(server, game_token, DETAILS, issue_author, issue_number, issue_title)
-            puts response
+            response_body = replace_letters(server, game_token, DETAILS, issue_author, issue_number, issue_title)
           end
           puts DETAILS
+          puts response_body
           if response.kind_of? Net::HTTPSuccess
             client.create_issue_reaction(repository, issue_number, 'hooray', {accept: @preview_headers})
             put_file_on_repo(client, repository, "README.md", "New readme", get_readme_content(server, game_token, repository))
@@ -145,7 +144,7 @@ jobs:
           else
             client.create_issue_reaction(repository, issue_number, 'confused', {accept: @preview_headers})
           end
-          parsed_json = JSON.parse(response.body)
+          parsed_json = JSON.parse(response_body)
           detail = parsed_json['detail']
           client.add_comment(repository, issue_number, detail)
           client.close_issue(repository, issue_number)
