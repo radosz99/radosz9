@@ -134,7 +134,7 @@ jobs:
           SCRABBLE_ACTION_TYPE   = title_split[1].to_s
           DETAILS  = title_split[2].to_s
           client = Octokit::Client.new(:access_token => github_token)
-          raise StandardError.new 'replace|move are the only allowed commands' unless ['replace','move'].include? SCRABBLE_ACTION_TYPE
+          raise StandardError.new 'replace|move are the only allowed commands' unless ['replace','move', 'init'].include? SCRABBLE_ACTION_TYPE
           if SCRABBLE_ACTION_TYPE == 'move'
             puts "Move action type"
             response = make_move(server, game_token, DETAILS, issue_author, issue_number, issue_title)
