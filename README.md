@@ -9,6 +9,7 @@
 
 | Id | Type | Move / Letters to replace | Created words / New letters | Date | Points | Player | 
 | - | - | - | - | - | - | - |
+|1| INSERT | K:4:talaq | ['TALAQ'] | 2022-11-23 19:50:45.339176 | 28 | Jerry |
 |0| INSERT | 7:H:capa | ['CAPA'] | 2022-11-23 19:49:57.565294 | 16 | Tom |
 # Possibly best moves:
 
@@ -17,15 +18,15 @@
   
   | Id | Move | Issue link | Points |
   | - | - | - | - |  
-|1| K:4:talaq | [scrabble&#124;move&#124;K:4:talaq](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CK%3A4%3Atalaq&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 28 
-|2| K:6:talaq | [scrabble&#124;move&#124;K:6:talaq](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CK%3A6%3Atalaq&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 28 
-|3| I:6:qadi | [scrabble&#124;move&#124;I:6:qadi](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CI%3A6%3Aqadi&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 26 
-|4| I:6:qaid | [scrabble&#124;move&#124;I:6:qaid](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CI%3A6%3Aqaid&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 25 
-|5| I:4:talaq | [scrabble&#124;move&#124;I:4:talaq](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CI%3A4%3Atalaq&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 25 
-|6| I:6:qat | [scrabble&#124;move&#124;I:6:qat](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CI%3A6%3Aqat&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 23 
-|7| I:6:talaq | [scrabble&#124;move&#124;I:6:talaq](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CI%3A6%3Atalaq&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 16 
-|8| K:6:qaid | [scrabble&#124;move&#124;K:6:qaid](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CK%3A6%3Aqaid&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 14 
-|9| K:6:qadi | [scrabble&#124;move&#124;K:6:qadi](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CK%3A6%3Aqadi&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 14 
-|10| K:4:datal | [scrabble&#124;move&#124;K:4:datal](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CK%3A4%3Adatal&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 12 
+|1| 5:I:abator | [scrabble&#124;move&#124;5:I:abator](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C5%3AI%3Aabator&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 16 
+|2| 5:H:rabato | [scrabble&#124;move&#124;5:H:rabato](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C5%3AH%3Arabato&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 14 
+|3| 5:H:robata | [scrabble&#124;move&#124;5:H:robata](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C5%3AH%3Arobata&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 14 
+|4| 8:K:qat | [scrabble&#124;move&#124;8:K:qat](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C8%3AK%3Aqat&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 13 
+|5| 5:F:airboat | [scrabble&#124;move&#124;5:F:airboat](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C5%3AF%3Aairboat&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 13 
+|6| 5:G:aroba | [scrabble&#124;move&#124;5:G:aroba](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C5%3AG%3Aaroba&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 13 
+|7| 5:K:aroba | [scrabble&#124;move&#124;5:K:aroba](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C5%3AK%3Aaroba&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 13 
+|8| 5:H:rabat | [scrabble&#124;move&#124;5:H:rabat](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C5%3AH%3Arabat&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 13 
+|9| 5:J:bait | [scrabble&#124;move&#124;5:J:bait](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C5%3AJ%3Abait&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 12 
+|10| 5:H:arba | [scrabble&#124;move&#124;5:H:arba](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C5%3AH%3Aarba&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 12 
 </details>
     
