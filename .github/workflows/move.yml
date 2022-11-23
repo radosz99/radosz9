@@ -144,7 +144,7 @@ jobs:
           elsif SCRABBLE_ACTION_TYPE == 'init'
             puts "New game"
             response = init_game(server)
-            parsed_json = JSON.parse(response.body)
+            parsed_json = JSON.parse(response)
             new_game_token = parsed_json['game_token']
             
             github_key = client.get_public_key(repository)
