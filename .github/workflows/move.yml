@@ -73,8 +73,8 @@ jobs:
           response = http.request(request)
           return response
         end
-        def init_game(server)
-          uri = URI("#{server}/initialize")
+        def init_game(server, country)
+          uri = URI("#{server}/initialize/#{country}")
           return Net::HTTP.get_response(uri)
         end
         def get_board_image(server, game_token)
@@ -143,7 +143,7 @@ jobs:
             response = replace_letters(server, game_token, DETAILS, issue_author, issue_number, issue_title)
           elsif SCRABBLE_ACTION_TYPE == 'init'
             puts "New game"
-            response = init_game(server)
+            response = init_game(server, DETAILS)
             parsed_json = JSON.parse(response.body)
             new_game_token = parsed_json['game_token']
             
