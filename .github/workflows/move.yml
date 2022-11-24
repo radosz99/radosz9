@@ -160,7 +160,9 @@ jobs:
         
           if response.kind_of? Net::HTTPSuccess
             client.create_issue_reaction(repository, issue_number, 'hooray', {accept: @preview_headers})
-            put_file_on_repo(client, repository, "README.md", "New readme", get_readme_content(server, game_token, repository))
+            readme_content = get_readme_content(server, game_token, repository)
+            puts readme_content
+            put_file_on_repo(client, repository, "README.md", "New readme", readme_content)
             put_file_on_repo(client, repository, "board.png", "New board", get_board_image(server, game_token))
             put_file_on_repo(client, repository, "rack.png", "New rack", get_rack_image(server, game_token))
           else
