@@ -7,7 +7,7 @@ Play scrabble!
     </p>
     
 ### Turn
-Now it is Tom turn, letters in rack:
+Now it is Jerry turn, letters in rack:
 <p align="center">
 <img src="https://raw.githubusercontent.com/radosz99/radosz99/main/rack.png" width=30% alt="Img"/>
 </p>
@@ -15,7 +15,7 @@ Now it is Tom turn, letters in rack:
 ### Game score
 | Id | Player name | Points |
   | - | - | - |  
-|0 | Tom | 114
+|0 | Tom | 144
 |1 | Jerry | 96
 ## Make the move
 Make the move and insert the letters by creating an [issue](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C7%3AA%3ARIDE&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) according to the rules or...
@@ -27,22 +27,23 @@ Are you sure? :smiling_imp: :smiling_imp: :smiling_imp:
   
   | Id | Move | Issue link | Points |
   | - | - | - | - |  
-|1| 14:A:miń | [scrabble&#124;move&#124;14:A:miń](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C14%3AA%3Amiń&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 30 
-|2| 13:B:latamy | [scrabble&#124;move&#124;13:B:latamy](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C13%3AB%3Alatamy&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 28 
-|3| 14:A:rań | [scrabble&#124;move&#124;14:A:rań](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C14%3AA%3Arań&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 27 
-|4| 13:B:tamali | [scrabble&#124;move&#124;13:B:tamali](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C13%3AB%3Atamali&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 26 
-|5| 13:B:ratami | [scrabble&#124;move&#124;13:B:ratami](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C13%3AB%3Aratami&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 24 
-|6| 13:B:marali | [scrabble&#124;move&#124;13:B:marali](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C13%3AB%3Amarali&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 24 
-|7| 13:B:ratlami | [scrabble&#124;move&#124;13:B:ratlami](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C13%3AB%3Aratlami&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 24 
-|8| 13:B:tarami | [scrabble&#124;move&#124;13:B:tarami](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C13%3AB%3Atarami&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 24 
-|9| 13:B:tamil | [scrabble&#124;move&#124;13:B:tamil](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C13%3AB%3Atamil&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 24 
-|10| 13:B:ramtil | [scrabble&#124;move&#124;13:B:ramtil](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C13%3AB%3Aramtil&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 22 
+|1| 2:H:dęg | [scrabble&#124;move&#124;2:H:dęg](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C2%3AH%3Adęg&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 15 
+|2| 0:E:agamę | [scrabble&#124;move&#124;0:E:agamę](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C0%3AE%3Aagamę&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 12 
+|3| B:7:gafa | [scrabble&#124;move&#124;B:7:gafa](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CB%3A7%3Agafa&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 10 
+|4| I:7:aha | [scrabble&#124;move&#124;I:7:aha](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CI%3A7%3Aaha&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 8 
+|5| 2:H:daga | [scrabble&#124;move&#124;2:H:daga](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C2%3AH%3Adaga&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 8 
+|6| A:11:agam | [scrabble&#124;move&#124;A:11:agam](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CA%3A11%3Aagam&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 8 
+|7| 12:A:gag | [scrabble&#124;move&#124;12:A:gag](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C12%3AA%3Agag&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 7 
+|8| 1:G:heh | [scrabble&#124;move&#124;1:G:heh](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C1%3AG%3Aheh&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 7 
+|9| 0:H:maga | [scrabble&#124;move&#124;0:H:maga](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C0%3AH%3Amaga&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 7 
+|10| F:11:aha | [scrabble&#124;move&#124;F:11:aha](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CF%3A11%3Aaha&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 7 
 </details>
     
 ## Latest moves
 
 | Id | Type | Move / Letters to replace | Created words / New letters | Date | Points | Player | Who |
 | - | - | - | - | - | - | - | - |
+|10| INSERT | 14:A:miń | ['MIŃ'] | 11/26/2022, 23:42:19 | 30 | Tom | [radosz99](github.com/radosz99) |
 |9| INSERT | C:11:łgań | ['ŁGAŃ'] | 11/26/2022, 23:41:36 | 28 | Jerry | [radosz99](github.com/radosz99) |
 |8| INSERT | 11:C:łupany | ['ŁUPANY'] | 11/26/2022, 23:40:57 | 14 | Tom | [radosz99](github.com/radosz99) |
 |7| INSERT | 9:B:fan | ['FAN'] | 11/26/2022, 23:40:00 | 17 | Jerry | [radosz99](github.com/radosz99) |
