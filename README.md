@@ -7,7 +7,7 @@ Play scrabble!
     </p>
     
 ### Turn
-Now it is Jerry turn, letters in rack:
+Now it is Tom turn, letters in rack:
 <p align="center">
 <img src="https://raw.githubusercontent.com/radosz99/radosz99/main/rack.png" width=30% alt="Img"/>
 </p>
@@ -16,7 +16,7 @@ Now it is Jerry turn, letters in rack:
 | Id | Player name | Points |
   | - | - | - |  
 |0 | Tom | 111
-|1 | Jerry | 46
+|1 | Jerry | 56
 ## Make the move
 Make the move and insert the letters by creating an [issue](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C7%3AA%3ARIDE&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) according to the rules or...
 
@@ -27,22 +27,23 @@ Are you sure? :smiling_imp: :smiling_imp: :smiling_imp:
   
   | Id | Move | Issue link | Points |
   | - | - | - | - |  
-|1| H:5:limbier | [scrabble&#124;move&#124;H:5:limbier](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CH%3A5%3Alimbier&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 12 
-|2| H:5:limber | [scrabble&#124;move&#124;H:5:limber](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CH%3A5%3Alimber&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 10 
-|3| H:4:limmer | [scrabble&#124;move&#124;H:4:limmer](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CH%3A4%3Alimmer&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 10 
-|4| H:5:limmer | [scrabble&#124;move&#124;H:5:limmer](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CH%3A5%3Alimmer&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 10 
-|5| H:7:mimer | [scrabble&#124;move&#124;H:7:mimer](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CH%3A7%3Amimer&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 10 
-|6| H:5:limbi | [scrabble&#124;move&#124;H:5:limbi](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CH%3A5%3Alimbi&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 9 
-|7| H:5:mimer | [scrabble&#124;move&#124;H:5:mimer](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CH%3A5%3Amimer&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 9 
-|8| H:4:berm | [scrabble&#124;move&#124;H:4:berm](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CH%3A4%3Aberm&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 8 
-|9| H:5:mime | [scrabble&#124;move&#124;H:5:mime](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CH%3A5%3Amime&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 8 
-|10| H:4:brim | [scrabble&#124;move&#124;H:4:brim](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CH%3A4%3Abrim&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 8 
+|1| 9:B:frigger | [scrabble&#124;move&#124;9:B:frigger](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C9%3AB%3Afrigger&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 24 
+|2| 9:B:fuggier | [scrabble&#124;move&#124;9:B:fuggier](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C9%3AB%3Afuggier&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 22 
+|3| 9:B:figurer | [scrabble&#124;move&#124;9:B:figurer](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C9%3AB%3Afigurer&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 21 
+|4| 4:C:ireful | [scrabble&#124;move&#124;4:C:ireful](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C4%3AC%3Aireful&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 18 
+|5| 4:E:fugle | [scrabble&#124;move&#124;4:E:fugle](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C4%3AE%3Afugle&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 18 
+|6| 4:E:rifle | [scrabble&#124;move&#124;4:E:rifle](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C4%3AE%3Arifle&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 16 
+|7| 9:D:rifer | [scrabble&#124;move&#124;9:D:rifer](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C9%3AD%3Arifer&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 16 
+|8| 4:D:gurgle | [scrabble&#124;move&#124;4:D:gurgle](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C4%3AD%3Agurgle&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 16 
+|9| 9:F:fire | [scrabble&#124;move&#124;9:F:fire](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C9%3AF%3Afire&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 15 
+|10| 9:F:furr | [scrabble&#124;move&#124;9:F:furr](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C9%3AF%3Afurr&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 15 
 </details>
     
 ## Latest moves
 
 | Id | Type | Move / Letters to replace | Created words / New letters | Date | Points | Player | Who |
 | - | - | - | - | - | - | - | - |
+|5| INSERT | H:4:limmer | ['LIMMER'] | 11/27/2022, 00:31:41 | 10 | Jerry | [radosz99](github.com/radosz99) |
 |4| INSERT | O:3:ycond | ['YCOND'] | 11/27/2022, 00:30:37 | 45 | Tom | [radosz99](github.com/radosz99) |
 |3| INSERT | 4:K:topic | ['TOPIC'] | 11/27/2022, 00:29:48 | 18 | Jerry | [radosz99](github.com/radosz99) |
 |2| INSERT | L:3:zooey | ['ZOOEY'] | 11/27/2022, 00:29:08 | 34 | Tom | [radosz99](github.com/radosz99) |
