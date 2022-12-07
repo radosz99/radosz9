@@ -7,7 +7,7 @@ Play scrabble!
     </p>
     
 ### Turn
-Now it is Tom turn, letters in rack:
+Now it is Jerry turn, letters in rack:
 <p align="center">
 <img src="https://raw.githubusercontent.com/radosz99/radosz99/main/rack.png" width=30% alt="Img"/>
 </p>
@@ -15,7 +15,7 @@ Now it is Tom turn, letters in rack:
 ### Game score
 | Id | Player name | Points |
   | - | - | - |  
-|0 | Tom | 164
+|0 | Tom | 184
 |1 | Jerry | 208
 ## Make the move
 Make the move and insert the letters by creating an [issue](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C7%3AA%3ARIDE&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) according to the rules or...
@@ -27,22 +27,23 @@ Are you sure? :smiling_imp: :smiling_imp: :smiling_imp:
   
   | Id | Move | Issue link | Points |
   | - | - | - | - |  
-|1| 10:C:hueco | [scrabble&#124;move&#124;10:C:hueco](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C10%3AC%3Ahueco&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 20 
-|2| 10:D:hoce | [scrabble&#124;move&#124;10:D:hoce](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C10%3AD%3Ahoce&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 18 
-|3| M:1:hoste | [scrabble&#124;move&#124;M:1:hoste](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CM%3A1%3Ahoste&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 16 
-|4| M:0:hueso | [scrabble&#124;move&#124;M:0:hueso](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CM%3A0%3Ahueso&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 16 
-|5| C:4:enhoto | [scrabble&#124;move&#124;C:4:enhoto](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CC%3A4%3Aenhoto&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 14 
-|6| K:1:heno | [scrabble&#124;move&#124;K:1:heno](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CK%3A1%3Aheno&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 14 
-|7| K:1:huno | [scrabble&#124;move&#124;K:1:huno](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CK%3A1%3Ahuno&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 14 
-|8| M:1:huso | [scrabble&#124;move&#124;M:1:huso](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CM%3A1%3Ahuso&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 14 
-|9| 10:C:tueco | [scrabble&#124;move&#124;10:C:tueco](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C10%3AC%3Atueco&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 14 
-|10| 8:C:huelo | [scrabble&#124;move&#124;8:C:huelo](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C8%3AC%3Ahuelo&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 13 
+|1| 7:A:arriera | [scrabble&#124;move&#124;7:A:arriera](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C7%3AA%3Aarriera&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 42 
+|2| 7:A:asierra | [scrabble&#124;move&#124;7:A:asierra](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C7%3AA%3Aasierra&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 42 
+|3| 7:A:erraria | [scrabble&#124;move&#124;7:A:erraria](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C7%3AA%3Aerraria&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 42 
+|4| 7:A:serrara | [scrabble&#124;move&#124;7:A:serrara](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C7%3AA%3Aserrara&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 42 
+|5| C:8:reherras | [scrabble&#124;move&#124;C:8:reherras](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CC%3A8%3Areherras&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 36 
+|6| C:8:rehierra | [scrabble&#124;move&#124;C:8:rehierra](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CC%3A8%3Arehierra&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 36 
+|7| C:8:reherra | [scrabble&#124;move&#124;C:8:reherra](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CC%3A8%3Areherra&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 34 
+|8| C:10:harree | [scrabble&#124;move&#124;C:10:harree](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CC%3A10%3Aharree&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 30 
+|9| C:10:herrar | [scrabble&#124;move&#124;C:10:herrar](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CC%3A10%3Aherrar&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 30 
+|10| C:10:herras | [scrabble&#124;move&#124;C:10:herras](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CC%3A10%3Aherras&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 30 
 </details>
     
 ## Latest moves
 
 | Id | Type | Move / Letters to replace | Created words / New letters | Date | Points | Player | Who |
 | - | - | - | - | - | - | - | - |
+|10| INSERT | 10:C:hueco | ['HUECO'] | 12/07/2022, 02:26:07 | 20 | Tom | [radosz99](github.com/radosz99) |
 |9| INSERT | F:4:ecualice | ['ECUALICE'] | 12/07/2022, 02:25:17 | 64 | Jerry | [radosz99](github.com/radosz99) |
 |8| INSERT | 10:J:gorda | ['GORDA'] | 12/07/2022, 02:24:04 | 14 | Tom | [radosz99](github.com/radosz99) |
 |7| INSERT | 5:C:nuncios | ['NUNCIOS'] | 12/07/2022, 02:09:52 | 15 | Jerry | [radosz99](github.com/radosz99) |
