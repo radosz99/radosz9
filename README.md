@@ -7,7 +7,7 @@ Play scrabble!
     </p>
     
 ### Turn
-Now it is Tom turn, letters in rack:
+Now it is Jerry turn, letters in rack:
 <p align="center">
 <img src="https://raw.githubusercontent.com/radosz99/radosz99/main/rack.png" width=30% alt="Img"/>
 </p>
@@ -15,7 +15,7 @@ Now it is Tom turn, letters in rack:
 ### Game score
 | Id | Player name | Points |
   | - | - | - |  
-|0 | Tom | 84
+|0 | Tom | 104
 |1 | Jerry | 123
 ## Make the move
 Make the move and insert the letters by creating an [issue](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C7%3AA%3ARIDE&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) according to the rules or...
@@ -27,22 +27,23 @@ Are you sure? :smiling_imp: :smiling_imp: :smiling_imp:
   
   | Id | Move | Issue link | Points |
   | - | - | - | - |  
-|1| K:9:afogue | [scrabble&#124;move&#124;K:9:afogue](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CK%3A9%3Aafogue&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 20 
-|2| K:9:afume | [scrabble&#124;move&#124;K:9:afume](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CK%3A9%3Aafume&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 20 
-|3| K:9:afumo | [scrabble&#124;move&#124;K:9:afumo](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CK%3A9%3Aafumo&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 20 
-|4| K:4:foguea | [scrabble&#124;move&#124;K:4:foguea](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CK%3A4%3Afoguea&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 20 
-|5| 10:C:fame | [scrabble&#124;move&#124;10:C:fame](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C10%3AC%3Afame&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 18 
-|6| K:8:fame | [scrabble&#124;move&#124;K:8:fame](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CK%3A8%3Afame&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 18 
-|7| B:11:fame | [scrabble&#124;move&#124;B:11:fame](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CB%3A11%3Afame&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 18 
-|8| K:8:gafee | [scrabble&#124;move&#124;K:8:gafee](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CK%3A8%3Agafee&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 18 
-|9| K:8:gafeo | [scrabble&#124;move&#124;K:8:gafeo](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CK%3A8%3Agafeo&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 18 
-|10| B:9:fema | [scrabble&#124;move&#124;B:9:fema](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CB%3A9%3Afema&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 17 
+|1| 13:J:zureos | [scrabble&#124;move&#124;13:J:zureos](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C13%3AJ%3Azureos&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 70 
+|2| 13:J:zureo | [scrabble&#124;move&#124;13:J:zureo](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C13%3AJ%3Azureo&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 68 
+|3| 13:J:zuros | [scrabble&#124;move&#124;13:J:zuros](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C13%3AJ%3Azuros&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 68 
+|4| 14:K:erizo | [scrabble&#124;move&#124;14:K:erizo](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C14%3AK%3Aerizo&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 45 
+|5| 5:F:cierzos | [scrabble&#124;move&#124;5:F:cierzos](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C5%3AF%3Acierzos&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 38 
+|6| 5:F:cierzo | [scrabble&#124;move&#124;5:F:cierzo](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C5%3AF%3Acierzo&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 37 
+|7| B:7:rizosa | [scrabble&#124;move&#124;B:7:rizosa](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CB%3A7%3Arizosa&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 35 
+|8| B:9:eriazo | [scrabble&#124;move&#124;B:9:eriazo](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CB%3A9%3Aeriazo&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 34 
+|9| B:8:erizas | [scrabble&#124;move&#124;B:8:erizas](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CB%3A8%3Aerizas&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 34 
+|10| B:8:lorzas | [scrabble&#124;move&#124;B:8:lorzas](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CB%3A8%3Alorzas&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 34 
 </details>
     
 ## Latest moves
 
 | Id | Type | Move / Letters to replace | Created words / New letters | Date | Points | Player | Who |
 | - | - | - | - | - | - | - | - |
+|6| INSERT | K:9:afogue | ['AFOGUE'] | 12/07/2022, 15:31:58 | 20 | Tom | [radosz99](github.com/radosz99) |
 |5| INSERT | 9:F:jitada | ['JITADA'] | 12/07/2022, 15:30:44 | 18 | Jerry | [radosz99](github.com/radosz99) |
 |4| INSERT | H:11:onix | ['ONIX'] | 12/07/2022, 15:28:54 | 36 | Tom | [radosz99](github.com/radosz99) |
 |3| INSERT | 12:B:aneasen | ['ANEASEN'] | 12/07/2022, 15:28:15 | 16 | Jerry | [radosz99](github.com/radosz99) |
