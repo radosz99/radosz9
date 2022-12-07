@@ -7,7 +7,7 @@ Play scrabble!
     </p>
     
 ### Turn
-Now it is Tom turn, letters in rack:
+Now it is Jerry turn, letters in rack:
 <p align="center">
 <img src="https://raw.githubusercontent.com/radosz99/radosz99/main/rack.png" width=30% alt="Img"/>
 </p>
@@ -15,7 +15,7 @@ Now it is Tom turn, letters in rack:
 ### Game score
 | Id | Player name | Points |
   | - | - | - |  
-|0 | Tom | 104
+|0 | Tom | 190
 |1 | Jerry | 193
 ## Make the move
 Make the move and insert the letters by creating an [issue](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C7%3AA%3ARIDE&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) according to the rules or...
@@ -27,22 +27,23 @@ Are you sure? :smiling_imp: :smiling_imp: :smiling_imp:
   
   | Id | Move | Issue link | Points |
   | - | - | - | - |  
-|1| M:7:morreasen | [scrabble&#124;move&#124;M:7:morreasen](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CM%3A7%3Amorreasen&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 86 
-|2| O:7:somarres | [scrabble&#124;move&#124;O:7:somarres](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CO%3A7%3Asomarres&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 72 
-|3| B:8:arromase | [scrabble&#124;move&#124;B:8:arromase](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CB%3A8%3Aarromase&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 64 
-|4| B:7:morrenas | [scrabble&#124;move&#124;B:7:morrenas](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CB%3A7%3Amorrenas&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 64 
-|5| B:8:arroman | [scrabble&#124;move&#124;B:8:arroman](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CB%3A8%3Aarroman&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 62 
-|6| B:8:arromas | [scrabble&#124;move&#124;B:8:arromas](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CB%3A8%3Aarromas&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 62 
-|7| O:7:narremos | [scrabble&#124;move&#124;O:7:narremos](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CO%3A7%3Anarremos&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 57 
-|8| O:7:serramos | [scrabble&#124;move&#124;O:7:serramos](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CO%3A7%3Aserramos&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 57 
-|9| O:7:marrones | [scrabble&#124;move&#124;O:7:marrones](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CO%3A7%3Amarrones&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 51 
-|10| O:7:morrenas | [scrabble&#124;move&#124;O:7:morrenas](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CO%3A7%3Amorrenas&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 51 
+|1| B:6:alipegas | [scrabble&#124;move&#124;B:6:alipegas](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CB%3A6%3Aalipegas&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 84 
+|2| B:7:aplegais | [scrabble&#124;move&#124;B:7:aplegais](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CB%3A7%3Aaplegais&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 76 
+|3| B:7:plagiase | [scrabble&#124;move&#124;B:7:plagiase](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CB%3A7%3Aplagiase&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 76 
+|4| 7:J:pigmea | [scrabble&#124;move&#124;7:J:pigmea](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C7%3AJ%3Apigmea&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 39 
+|5| O:7:espigas | [scrabble&#124;move&#124;O:7:espigas](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CO%3A7%3Aespigas&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 36 
+|6| O:7:pielgas | [scrabble&#124;move&#124;O:7:pielgas](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CO%3A7%3Apielgas&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 36 
+|7| O:7:pliegas | [scrabble&#124;move&#124;O:7:pliegas](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CO%3A7%3Apliegas&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 36 
+|8| 7:J:palmes | [scrabble&#124;move&#124;7:J:palmes](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C7%3AJ%3Apalmes&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 33 
+|9| 7:J:pelmas | [scrabble&#124;move&#124;7:J:pelmas](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C7%3AJ%3Apelmas&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 33 
+|10| 7:J:pilmes | [scrabble&#124;move&#124;7:J:pilmes](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C7%3AJ%3Apilmes&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 33 
 </details>
     
 ## Latest moves
 
 | Id | Type | Move / Letters to replace | Created words / New letters | Date | Points | Player | Who |
 | - | - | - | - | - | - | - | - |
+|8| INSERT | M:7:morreasen | ['MORREASEN'] | 12/07/2022, 15:34:10 | 86 | Tom | [radosz99](github.com/radosz99) |
 |7| INSERT | 13:J:zureos | ['ZUREOS'] | 12/07/2022, 15:32:47 | 70 | Jerry | [radosz99](github.com/radosz99) |
 |6| INSERT | K:9:afogue | ['AFOGUE'] | 12/07/2022, 15:31:58 | 20 | Tom | [radosz99](github.com/radosz99) |
 |5| INSERT | 9:F:jitada | ['JITADA'] | 12/07/2022, 15:30:44 | 18 | Jerry | [radosz99](github.com/radosz99) |
