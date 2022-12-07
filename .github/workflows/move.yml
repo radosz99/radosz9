@@ -18,6 +18,7 @@ jobs:
         echo "ISSUE_AUTHOR=${{ github.event.issue.user.login }}" >> $GITHUB_ENV
         echo "ISSUE_NUMBER=${{ github.event.issue.number }}" >> $GITHUB_ENV
         echo "ISSUE_TITLE=${{ github.event.issue.title }}" >> $GITHUB_ENV
+        echo "OWNER=${{ github.repository_owner }}" >> $GITHUB_ENV
         
     - uses: ruby/setup-ruby@v1
       with:
@@ -53,6 +54,7 @@ jobs:
           issue_title = ENV.fetch('ISSUE_TITLE')
           issue_number = ENV.fetch('ISSUE_NUMBER')
           issue_author = ENV.fetch('ISSUE_AUTHOR')
+          owner = ENV.fetch('OWNER')
         end
         def make_get_request(uri)
           response = Net::HTTP.get_response(uri)
@@ -134,7 +136,7 @@ jobs:
           SCRABBLE_ACTION_TYPE   = title_split[1].to_s
           DETAILS  = title_split[2].to_s
           client = Octokit::Client.new(:access_token => github_token)
-          raise StandardError.new 'replace|move are the only allowed commands' unless ['replace','move', 'init'].include? SCRABBLE_ACTION_TYPE
+          raise StandardError.new 'replace|move|init are the only allowed commands' unless ['replace','move', 'init'].include? SCRABBLE_ACTION_TYPE
           if SCRABBLE_ACTION_TYPE == 'move'
             puts "Move action type"
             response = make_move(server, game_token, DETAILS, issue_author, issue_number, issue_title)
@@ -143,6 +145,7 @@ jobs:
             response = replace_letters(server, game_token, DETAILS, issue_author, issue_number, issue_title)
           elsif SCRABBLE_ACTION_TYPE == 'init'
             puts "New game"
+            raise StandardError.new 'only repo owner has permission to init a game' unless issue_author==owner
             response = init_game(server, DETAILS)
             parsed_json = JSON.parse(response.body)
             new_game_token = parsed_json['game_token']
@@ -173,9 +176,9 @@ jobs:
           client.add_comment(repository, issue_number, detail)
           client.close_issue(repository, issue_number)
         rescue StandardError => e
-          puts "Unable to parse - @#{e}"
+          puts "Error- @#{e}"
           client.create_issue_reaction(repository, issue_number, 'confused', {accept: @preview_headers})
-          client.add_comment(repository, issue_number, "Unable to parse - @#{e}")
+          client.add_comment(repository, issue_number, "Error - @#{e}")
           client.close_issue(repository, issue_number)
           exit(0)
         end
