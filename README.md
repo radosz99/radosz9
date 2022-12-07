@@ -7,7 +7,7 @@ Play scrabble!
     </p>
     
 ### Turn
-Now it is Tom turn, letters in rack:
+Now it is Jerry turn, letters in rack:
 <p align="center">
 <img src="https://raw.githubusercontent.com/radosz99/radosz99/main/rack.png" width=30% alt="Img"/>
 </p>
@@ -15,7 +15,7 @@ Now it is Tom turn, letters in rack:
 ### Game score
 | Id | Player name | Points |
   | - | - | - |  
-|0 | Tom | 0
+|0 | Tom | 28
 |1 | Jerry | 0
 ## Make the move
 Make the move and insert the letters by creating an [issue](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C7%3AA%3ARIDE&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) according to the rules or...
@@ -27,19 +27,20 @@ Are you sure? :smiling_imp: :smiling_imp: :smiling_imp:
   
   | Id | Move | Issue link | Points |
   | - | - | - | - |  
-|1| 7:D:jetan | [scrabble&#124;move&#124;7:D:jetan](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C7%3AD%3Ajetan&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 40 
-|2| 7:D:jetar | [scrabble&#124;move&#124;7:D:jetar](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C7%3AD%3Ajetar&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 40 
-|3| 7:H:tarjen | [scrabble&#124;move&#124;7:H:tarjen](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C7%3AH%3Atarjen&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 28 
-|4| 7:G:tarjen | [scrabble&#124;move&#124;7:G:tarjen](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C7%3AG%3Atarjen&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 28 
-|5| 7:D:tarjen | [scrabble&#124;move&#124;7:D:tarjen](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C7%3AD%3Atarjen&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 28 
-|6| 7:C:tarjen | [scrabble&#124;move&#124;7:C:tarjen](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C7%3AC%3Atarjen&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 28 
-|7| 7:H:jetan | [scrabble&#124;move&#124;7:H:jetan](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C7%3AH%3Ajetan&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 26 
-|8| 7:H:jetar | [scrabble&#124;move&#124;7:H:jetar](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C7%3AH%3Ajetar&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 26 
-|9| 7:H:rajen | [scrabble&#124;move&#124;7:H:rajen](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C7%3AH%3Arajen&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 26 
-|10| 7:D:rajen | [scrabble&#124;move&#124;7:D:rajen](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C7%3AD%3Arajen&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 26 
+|1| L:3:lambed | [scrabble&#124;move&#124;L:3:lambed](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CL%3A3%3Alambed&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 22 
+|2| L:6:lembrar | [scrabble&#124;move&#124;L:6:lembrar](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CL%3A6%3Alembrar&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 22 
+|3| L:3:lamber | [scrabble&#124;move&#124;L:3:lamber](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CL%3A3%3Alamber&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 20 
+|4| L:3:amble | [scrabble&#124;move&#124;L:3:amble](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CL%3A3%3Aamble&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 18 
+|5| L:6:beldar | [scrabble&#124;move&#124;L:6:beldar](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CL%3A6%3Abeldar&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 18 
+|6| L:3:brame | [scrabble&#124;move&#124;L:3:brame](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CL%3A3%3Abrame&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 18 
+|7| L:3:lambe | [scrabble&#124;move&#124;L:3:lambe](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CL%3A3%3Alambe&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 18 
+|8| L:3:mable | [scrabble&#124;move&#124;L:3:mable](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CL%3A3%3Amable&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 18 
+|9| L:6:medrar | [scrabble&#124;move&#124;L:6:medrar](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CL%3A6%3Amedrar&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 18 
+|10| L:6:meldar | [scrabble&#124;move&#124;L:6:meldar](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CL%3A6%3Ameldar&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 18 
 </details>
     
 ## Latest moves
 
 | Id | Type | Move / Letters to replace | Created words / New letters | Date | Points | Player | Who |
 | - | - | - | - | - | - | - | - |
+|0| INSERT | 7:H:tarjen | ['TARJEN'] | 12/07/2022, 01:40:43 | 28 | Tom | [radosz99](github.com/radosz99) |
