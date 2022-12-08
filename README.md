@@ -7,7 +7,7 @@ Play scrabble!
     </p>
     
 ### Turn
-Now it is Tom turn, letters in rack:
+Now it is Jerry turn, letters in rack:
 <p align="center">
 <img src="https://raw.githubusercontent.com/radosz99/radosz99/main/rack.png" width=30% alt="Img"/>
 </p>
@@ -15,7 +15,7 @@ Now it is Tom turn, letters in rack:
 ### Game score
 | Id | Player name | Points |
   | - | - | - |  
-|0 | Tom | 0
+|0 | Tom | 18
 |1 | Jerry | 0
 ## Make the move
 Make the move and insert the letters by creating an [issue](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C7%3AA%3ARIDE&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) according to the rules or...
@@ -27,19 +27,20 @@ Are you sure? :smiling_imp: :smiling_imp: :smiling_imp:
   
   | Id | Move | Issue link | Points |
   | - | - | - | - |  
-|1| 7:C:adonio | [scrabble&#124;move&#124;7:C:adonio](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C7%3AC%3Aadonio&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 18 
-|2| 7:H:atondo | [scrabble&#124;move&#124;7:H:atondo](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C7%3AH%3Aatondo&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 18 
-|3| 7:D:ditono | [scrabble&#124;move&#124;7:D:ditono](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C7%3AD%3Aditono&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 18 
-|4| 7:H:notado | [scrabble&#124;move&#124;7:H:notado](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C7%3AH%3Anotado&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 18 
-|5| 7:H:tinado | [scrabble&#124;move&#124;7:H:tinado](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C7%3AH%3Atinado&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 18 
-|6| 7:H:toando | [scrabble&#124;move&#124;7:H:toando](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C7%3AH%3Atoando&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 18 
-|7| 7:H:tonado | [scrabble&#124;move&#124;7:H:tonado](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C7%3AH%3Atonado&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 18 
-|8| 7:H:adonio | [scrabble&#124;move&#124;7:H:adonio](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C7%3AH%3Aadonio&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 16 
-|9| 7:G:adonio | [scrabble&#124;move&#124;7:G:adonio](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C7%3AG%3Aadonio&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 16 
-|10| 7:D:adonio | [scrabble&#124;move&#124;7:D:adonio](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C7%3AD%3Aadonio&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 16 
+|1| C:7:afecte | [scrabble&#124;move&#124;C:7:afecte](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CC%3A7%3Aafecte&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 30 
+|2| C:6:faxee | [scrabble&#124;move&#124;C:6:faxee](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CC%3A6%3Afaxee&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 27 
+|3| C:1:efectua | [scrabble&#124;move&#124;C:1:efectua](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CC%3A1%3Aefectua&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 26 
+|4| C:6:fax | [scrabble&#124;move&#124;C:6:fax](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CC%3A6%3Afax&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 25 
+|5| E:1:efectuo | [scrabble&#124;move&#124;E:1:efectuo](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CE%3A1%3Aefectuo&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 24 
+|6| E:2:efecto | [scrabble&#124;move&#124;E:2:efecto](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CE%3A2%3Aefecto&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 22 
+|7| E:7:oxee | [scrabble&#124;move&#124;E:7:oxee](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CE%3A7%3Aoxee&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 22 
+|8| E:7:oxte | [scrabble&#124;move&#124;E:7:oxte](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CE%3A7%3Aoxte&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 22 
+|9| E:3:cefeo | [scrabble&#124;move&#124;E:3:cefeo](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CE%3A3%3Acefeo&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 20 
+|10| E:3:feuco | [scrabble&#124;move&#124;E:3:feuco](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CE%3A3%3Afeuco&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 20 
 </details>
     
 ## Latest moves
 
 | Id | Type | Move / Letters to replace | Created words / New letters | Date | Points | Player | Who |
 | - | - | - | - | - | - | - | - |
+|0| INSERT | 7:C:adonio | ['ADONIO'] | 12/08/2022, 01:37:42 | 18 | Tom | [radosz99](github.com/radosz99) |
