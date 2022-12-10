@@ -14,23 +14,23 @@ Start new game:
  - Language - ![](https://raw.githubusercontent.com/radosz99/radosz99/main/flags/ES.png),
  - Game is IN PROGRESS,
  - Has begun - 12/10/2022, 00:47:25 UTC,
- - Total moves: 11,
- - Last move has been made - 12/10/2022, 01:09:07 UTC.
+ - Total moves: 12,
+ - Last move has been made - 12/10/2022, 01:10:41 UTC.
     
 ### Game score
 | Player name | Points |
  | - | - |  
 | Tom | 210
-| Jerry | 157
+| Jerry | 179
 
-Now it is Jerry's turn, letters in rack:
+Now it is Tom's turn, letters in rack:
 <p align="center">
     <img src="https://raw.githubusercontent.com/radosz99/radosz99/main/rack.png" width=30% alt="Img"/>
 </p>
 
 ## Moving rules
  - inserting letters - raise an issue with title `scrabble|move|X:Y:WORD`, where `X` and `Y` are coordinates, and `WORD` is string containing player's letter and letters from board, for example [scrabble&#124;move&#124;7:A:BRIDE](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C7%3AA%3ABRIDE&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) if you want to create word `BRIDE` in 7th row starting from column A (RIDE is already on the board) and B is in player's letters. Number should go first if word is in a row (7:A) or second if word is in a column (A:7). For more details see [notation system](https://en.wikipedia.org/wiki/Scrabble#Notation_system) and examples in [cheater section](#cheater),
- - replacing letters - raise an issue with title `scrabble|replace|LETTERS`, where `LETTERS` is string of letters you want to replace, for example [scrabble&#124;replace&#124;ULTAQNH](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Creplace%7CULTAQNH&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move..)
+ - replacing letters - raise an issue with title `scrabble|replace|LETTERS`, where `LETTERS` is string of letters you want to replace, for example [scrabble&#124;replace&#124;OBCHCRNP](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Creplace%7COBCHCRNP&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move..)
 <p align="center">
 <img src="https://raw.githubusercontent.com/radosz99/radosz99/main/board.png" width=60% alt="Img"/>
 </p>
@@ -38,7 +38,7 @@ Now it is Jerry's turn, letters in rack:
 ## Leaderboard
 | Moves | Who | Points |
 | - | - | - |
-| 11 | [@radosz99](github.com/radosz99)| 367
+| 12 | [@radosz99](github.com/radosz99)| 389
 
 <a name="cheater"></a>
 ## Cheater section  
@@ -48,16 +48,16 @@ Are you sure? :smiling_imp: :smiling_imp: :smiling_imp:
   
   | Id | Move | Issue link | Points |
   | - | - | - | - |  
-|1| D:0:talque | [scrabble&#124;move&#124;D:0:talque](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CD%3A0%3Atalque&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 22 
-|2| D:0:tanque | [scrabble&#124;move&#124;D:0:tanque](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CD%3A0%3Atanque&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 22 
-|3| A:3:algun | [scrabble&#124;move&#124;A:3:algun](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CA%3A3%3Aalgun&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 21 
-|4| B:1:nahuatl | [scrabble&#124;move&#124;B:1:nahuatl](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CB%3A1%3Anahuatl&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 20 
-|5| E:0:hulana | [scrabble&#124;move&#124;E:0:hulana](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CE%3A0%3Ahulana&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 18 
-|6| B:0:hulana | [scrabble&#124;move&#124;B:0:hulana](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CB%3A0%3Ahulana&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 18 
-|7| D:1:laque | [scrabble&#124;move&#124;D:1:laque](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CD%3A1%3Alaque&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 18 
-|8| B:1:nahual | [scrabble&#124;move&#124;B:1:nahual](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CB%3A1%3Anahual&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 18 
-|9| D:1:naque | [scrabble&#124;move&#124;D:1:naque](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CD%3A1%3Anaque&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 18 
-|10| D:1:taque | [scrabble&#124;move&#124;D:1:taque](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CD%3A1%3Ataque&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 18 
+|1| B:0:broncha | [scrabble&#124;move&#124;B:0:broncha](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CB%3A0%3Abroncha&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 24 
+|2| 4:I:cerchon | [scrabble&#124;move&#124;4:I:cerchon](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C4%3AI%3Acerchon&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 24 
+|3| B:1:corchan | [scrabble&#124;move&#124;B:1:corchan](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CB%3A1%3Acorchan&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 24 
+|4| 4:I:perchon | [scrabble&#124;move&#124;4:I:perchon](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C4%3AI%3Aperchon&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 24 
+|5| 1:A:bochan | [scrabble&#124;move&#124;1:A:bochan](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C1%3AA%3Abochan&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 22 
+|6| 1:A:bochar | [scrabble&#124;move&#124;1:A:bochar](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C1%3AA%3Abochar&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 22 
+|7| 1:B:braco | [scrabble&#124;move&#124;1:B:braco](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C1%3AB%3Abraco&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 22 
+|8| B:1:brocha | [scrabble&#124;move&#124;B:1:brocha](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CB%3A1%3Abrocha&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 22 
+|9| 4:I:cercho | [scrabble&#124;move&#124;4:I:cercho](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C4%3AI%3Acercho&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 22 
+|10| B:1:concha | [scrabble&#124;move&#124;B:1:concha](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CB%3A1%3Aconcha&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 22 
 </details>
     
 ## Latest moves
@@ -66,6 +66,7 @@ Are you sure? :smiling_imp: :smiling_imp: :smiling_imp:
   
   | Id | Type | Move / Letters to replace | Created words / New letters | Date | Points | Player | Who |
   | - | - | - | - | - | - | - | - |
+|11| INSERT | D:0:talque | ['TALQUE'] | 12/10/2022, 01:10:40 UTC | 22 | Jerry | [@radosz99](github.com/radosz99) |
 |10| INSERT | 5:A:gateabas | ['GATEABAS'] | 12/10/2022, 01:09:06 UTC | 63 | Tom | [@radosz99](github.com/radosz99) |
 |9| INSERT | 11:A:pufs | ['PUFS'] | 12/10/2022, 01:08:24 UTC | 24 | Jerry | [@radosz99](github.com/radosz99) |
 |8| INSERT | 14:A:oye | ['OYE'] | 12/10/2022, 01:06:41 UTC | 18 | Tom | [@radosz99](github.com/radosz99) |
@@ -75,6 +76,5 @@ Are you sure? :smiling_imp: :smiling_imp: :smiling_imp:
 |4| INSERT | J:4:exile | ['EXILE'] | 12/10/2022, 00:59:33 UTC | 28 | Tom | [@radosz99](github.com/radosz99) |
 |3| INSERT | 10:E:roere | ['ROERE'] | 12/10/2022, 00:58:18 UTC | 10 | Jerry | [@radosz99](github.com/radosz99) |
 |2| INSERT | F:5:barullo | ['BARULLO'] | 12/10/2022, 00:57:18 UTC | 37 | Tom | [@radosz99](github.com/radosz99) |
-|1| INSERT | 7:D:varonil | ['VARONIL'] | 12/10/2022, 00:56:19 UTC | 78 | Jerry | [@radosz99](github.com/radosz99) |
 </details>
     
