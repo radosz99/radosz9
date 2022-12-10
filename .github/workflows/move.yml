@@ -75,6 +75,20 @@ jobs:
           response = http.request(request)
           return response
         end
+        def skip_turn(server, game_token, issue_author, issue_number, issue_title)
+          uri = URI("#{server}/skip/#{game_token}")
+          request_params =  {
+            issue_number: issue_number,
+            github_user: issue_author,
+            issue_title: issue_title
+          }
+          request_header = { 'Content-Type': 'application/json' }
+          http = Net::HTTP.new(uri.host, uri.port)
+          request = Net::HTTP::Post.new(uri.path, request_header)
+          request.body = request_params.to_json
+          response = http.request(request)
+          return response
+        end
         def init_game(server, country)
           uri = URI("#{server}/initialize/#{country}")
           return Net::HTTP.get_response(uri)
@@ -134,19 +148,21 @@ jobs:
         begin
           title_split = issue_title.split('|')
           SCRABBLE_ACTION_TYPE   = title_split[1].to_s
-          DETAILS  = title_split[2].to_s
           client = Octokit::Client.new(:access_token => github_token)
-          raise StandardError.new 'replace|move|init are the only allowed commands' unless ['replace','move', 'init'].include? SCRABBLE_ACTION_TYPE
+          raise StandardError.new 'replace|move|skip|init are the only allowed commands' unless ['replace','move', 'init', 'skip'].include? SCRABBLE_ACTION_TYPE
           if SCRABBLE_ACTION_TYPE == 'move'
             puts "Move action type"
-            response = make_move(server, game_token, DETAILS, issue_author, issue_number, issue_title)
+            response = make_move(server, game_token, title_split[2].to_s, issue_author, issue_number, issue_title)
           elsif SCRABBLE_ACTION_TYPE == 'replace'
             puts "Replace action type"
-            response = replace_letters(server, game_token, DETAILS, issue_author, issue_number, issue_title)
+            response = replace_letters(server, game_token, title_split[2].to_s, issue_author, issue_number, issue_title)
+          elsif SCRABBLE_ACTION_TYPE == 'skip'
+            puts "Replace action type"
+            response = skip_turn(server, game_token, issue_author, issue_number, issue_title)
           elsif SCRABBLE_ACTION_TYPE == 'init'
             puts "New game"
             raise StandardError.new 'only repo owner has permission to init a game' unless issue_author==owner
-            response = init_game(server, DETAILS)
+            response = init_game(server, title_split[2].to_s)
             
             parsed_json = JSON.parse(response.body)
             raise StandardError.new "#{parsed_json['detail']}" unless response.kind_of? Net::HTTPSuccess
