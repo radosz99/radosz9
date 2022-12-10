@@ -149,7 +149,7 @@ jobs:
             response = init_game(server, DETAILS)
             
             parsed_json = JSON.parse(response.body)
-            raise StandardError.new "#{parsed_json['game_token']}" unless response.kind_of? Net::HTTPSuccess
+            raise StandardError.new "#{parsed_json['detail']}" unless response.kind_of? Net::HTTPSuccess
           
             new_game_token = parsed_json['game_token']
             
