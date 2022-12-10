@@ -147,7 +147,10 @@ jobs:
             puts "New game"
             raise StandardError.new 'only repo owner has permission to init a game' unless issue_author==owner
             response = init_game(server, DETAILS)
+            
             parsed_json = JSON.parse(response.body)
+            raise StandardError.new "#{parsed_json['game_token']}" unless response.kind_of? Net::HTTPSuccess
+          
             new_game_token = parsed_json['game_token']
             
             github_key = client.get_public_key(repository)
