@@ -12,22 +12,23 @@ Start new game:
 
 ## Rules
  - inserting letters - raise an issue with title `scrabble|move|X:Y:WORD`, where `X` and `Y` are coordinates, and `WORD` is string containing player's letter and letters from board, for example [scrabble&#124;move&#124;7:A:BRIDE](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C7%3AA%3ABRIDE&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) if you want to create word `BRIDE` in 7th row starting from column A (RIDE is already on the board) and B is in player's letters. Number should go first if word is horizontal (7:A) or second if word is vertical (A:7). For more details see [notation system](https://en.wikipedia.org/wiki/Scrabble#Notation_system) and examples in [cheater section](#cheater),
- - exchanging letters - raise an issue with title `scrabble|replace|LETTERS`, where `LETTERS` is string of letters you want to exchange, for example [scrabble&#124;replace&#124;EUNKGND](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Creplace%7CEUNKGND&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.),
+ - exchanging letters - raise an issue with title `scrabble|replace|LETTERS`, where `LETTERS` is string of letters you want to exchange, for example [scrabble&#124;replace&#124;IRELPLE](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Creplace%7CIRELPLE&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.),
  - skipping turn - raise an issue with title `scrabble|skip`, for example [scrabble&#124;skip](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cskip&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.).
 
 ## Current status
  - Language - ![](https://raw.githubusercontent.com/radosz99/radosz99/main/flags/FR.png),
  - Game is IN PROGRESS,
  - Has begun - 12/11/2022, 00:49:57 UTC,
- - Total moves: 0,
+ - Total moves: 1,
+ - Last move has been made - 12/11/2022, 00:51:01 UTC.
     
 ### Game score
 | Player name | Points |
  | - | - |  
-| Tom | 0
+| Tom | 10
 | Jerry | 0
 
-Now it is Tom's turn, letters in rack:
+Now it is Jerry's turn, letters in rack:
 <p align="center">
     <img src="https://raw.githubusercontent.com/radosz99/radosz99/main/rack.png" width=30% alt="Img"/>
 </p>
@@ -40,6 +41,7 @@ Board:
 ## Leaderboard
 | Moves | Who | Points |
 | - | - | - |
+| 1 | [@radosz99](github.com/radosz99)| 10
 
 <a name="cheater"></a>
 ## Cheater section  
@@ -49,16 +51,16 @@ Are you sure? :smiling_imp: :smiling_imp: :smiling_imp:
   
   | Id | Move | Issue link | Points |
   | - | - | - | - |  
-|1| 7:H:kg | [scrabble&#124;move&#124;7:H:kg](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C7%3AH%3Akg&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 24 
-|2| 7:G:kg | [scrabble&#124;move&#124;7:G:kg](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C7%3AG%3Akg&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 24 
-|3| 7:H:dune | [scrabble&#124;move&#124;7:H:dune](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C7%3AH%3Adune&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 10 
-|4| 7:G:dune | [scrabble&#124;move&#124;7:G:dune](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C7%3AG%3Adune&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 10 
-|5| 7:F:dune | [scrabble&#124;move&#124;7:F:dune](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C7%3AF%3Adune&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 10 
-|6| 7:E:dune | [scrabble&#124;move&#124;7:E:dune](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C7%3AE%3Adune&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 10 
-|7| 7:H:dg | [scrabble&#124;move&#124;7:H:dg](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C7%3AH%3Adg&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 8 
-|8| 7:G:dg | [scrabble&#124;move&#124;7:G:dg](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C7%3AG%3Adg&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 8 
-|9| 7:H:due | [scrabble&#124;move&#124;7:H:due](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C7%3AH%3Adue&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 8 
-|10| 7:G:due | [scrabble&#124;move&#124;7:G:due](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C7%3AG%3Adue&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 8 
+|1| K:6:repliee | [scrabble&#124;move&#124;K:6:repliee](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CK%3A6%3Arepliee&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 18 
+|2| K:2:repliee | [scrabble&#124;move&#124;K:2:repliee](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CK%3A2%3Arepliee&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 18 
+|3| K:1:repliee | [scrabble&#124;move&#124;K:1:repliee](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CK%3A1%3Arepliee&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 18 
+|4| J:1:pelerin | [scrabble&#124;move&#124;J:1:pelerin](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CJ%3A1%3Apelerin&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 17 
+|5| K:7:epeire | [scrabble&#124;move&#124;K:7:epeire](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CK%3A7%3Aepeire&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 16 
+|6| K:5:epeire | [scrabble&#124;move&#124;K:5:epeire](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CK%3A5%3Aepeire&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 16 
+|7| K:2:epeire | [scrabble&#124;move&#124;K:2:epeire](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CK%3A2%3Aepeire&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 16 
+|8| K:7:epeler | [scrabble&#124;move&#124;K:7:epeler](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CK%3A7%3Aepeler&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 16 
+|9| K:5:epeler | [scrabble&#124;move&#124;K:5:epeler](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CK%3A5%3Aepeler&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 16 
+|10| K:3:epeler | [scrabble&#124;move&#124;K:3:epeler](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CK%3A3%3Aepeler&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move.) | 16 
 </details>
     
 ## Latest moves
@@ -67,5 +69,6 @@ Are you sure? :smiling_imp: :smiling_imp: :smiling_imp:
   
   | Id | Type | Move / Letters to replace | Created words / New letters | Date | Points | Player | Who |
   | - | - | - | - | - | - | - | - |
+|0| INSERT | 7:H:dune | ['DUNE'] | 12/11/2022, 00:50:56 UTC | 10 | Tom | [@radosz99](github.com/radosz99) |
 </details>
     
