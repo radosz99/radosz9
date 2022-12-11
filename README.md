@@ -17,23 +17,24 @@ Inspired by [Tim's Community Chess Tournament](https://github.com/timburgan/).
 
 ## Rules
  - **inserting letters** - raise an issue with title `scrabble|move|X:Y:WORD`, where `X` and `Y` are coordinates, and `WORD` is string containing player's letter and letters from board, for example [scrabble&#124;move&#124;7:A:BRIDE](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C7%3AA%3ABRIDE&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move) if you want to create word `BRIDE` in 7th row starting from column A (RIDE is already on the board) and B is in player's letters. Number should go first if word is horizontal (7:A) or second if word is vertical (A:7). For more details see [notation system](https://en.wikipedia.org/wiki/Scrabble#Notation_system) and examples in [cheater section](#cheater),
- - **exchanging letters** - raise an issue with title `scrabble|replace|LETTERS`, where `LETTERS` is string of letters you want to exchange, for example [scrabble&#124;replace&#124;YMNLJEN](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Creplace%7CYMNLJEN&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move), works only if letters number in letters bag is greater than 6,
+ - **exchanging letters** - raise an issue with title `scrabble|replace|LETTERS`, where `LETTERS` is string of letters you want to exchange, for example [scrabble&#124;replace&#124;DAOCHCZR](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Creplace%7CDAOCHCZR&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move), works only if letters number in letters bag is greater than 6,
  - **skipping turn** - raise an issue with title `scrabble|skip`, for example [scrabble&#124;skip](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cskip&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move), keep in mind that if each player skips two times in a row then the game is over,
 
 ## Current game status
  - Language - ![](https://raw.githubusercontent.com/radosz99/radosz99/main/flags/ES.png),
  - Game is **IN PROGRESS**,
  - Has begun - *12/11/2022, 11:52:56 UTC*,
- - Number of remaining letters - 84,
- - Total moves - 0,
+ - Number of remaining letters - 82,
+ - Total moves - 1,
+ - Last move has been made - *12/11/2022, 12:21:26 UTC*.
     
 ### Game score
 | Player name | Points |
  | - | - |  
-| Tom | 0
+| Tom | 18
 | Jerry | 0
 
-Now it is **Tom's** turn, letters in rack:
+Now it is **Jerry's** turn, letters in rack:
 <p align="center">
     <img src="https://raw.githubusercontent.com/radosz99/radosz99/main/rack.png" width=30% alt="Img"/>
 </p>
@@ -46,6 +47,7 @@ Board:
 ## User leaderboard
 | Moves | Who | Points |
 | - | - | - |
+| 1 | [@radosz99](github.com/radosz99)| 18
 
 <a name="cheater"></a>
 ## Cheater section  
@@ -55,16 +57,16 @@ Try out my algorithm and check the moves that were found based on the state of t
   
   | Id | Move | Points |
   | - | - | - |  
-|1 | [7:H:je](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C7%3AH%3Aje&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move) | 18 
-|2 | [7:G:je](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C7%3AG%3Aje&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move) | 18 
-|3 | [7:H:ley](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C7%3AH%3Aley&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move) | 12 
-|4 | [7:G:ley](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C7%3AG%3Aley&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move) | 12 
-|5 | [7:F:ley](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C7%3AF%3Aley&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move) | 12 
-|6 | [7:H:yen](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C7%3AH%3Ayen&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move) | 12 
-|7 | [7:G:yen](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C7%3AG%3Ayen&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move) | 12 
-|8 | [7:F:yen](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C7%3AF%3Ayen&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move) | 12 
-|9 | [7:H:ey](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C7%3AH%3Aey&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move) | 10 
-|10 | [7:G:ey](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7C7%3AG%3Aey&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move) | 10 
+|1 | [I:4:choreza](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CI%3A4%3Achoreza&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move) | 30 
+|2 | [I:3:zarcecho](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CI%3A3%3Azarcecho&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move) | 30 
+|3 | [I:5:acezo](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CI%3A5%3Aacezo&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move) | 29 
+|4 | [I:4:codez](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CI%3A4%3Acodez&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move) | 29 
+|5 | [I:2:zocare](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CI%3A2%3Azocare&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move) | 28 
+|6 | [I:4:adrezo](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CI%3A4%3Aadrezo&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move) | 27 
+|7 | [I:6:rezado](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CI%3A6%3Arezado&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move) | 27 
+|8 | [I:6:rezad](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CI%3A6%3Arezad&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move) | 26 
+|9 | [I:6:zeda](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CI%3A6%3Azeda&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move) | 26 
+|10 | [I:6:rechazo](https://github.com/radosz99/radosz99/issues/new?title=scrabble%7Cmove%7CI%3A6%3Arechazo&body=Just+push+%27Submit+new+issue%27+or+update+with+your+move) | 25 
 </details>
     
 ## Latest moves
@@ -74,5 +76,6 @@ Try out my algorithm and check the moves that were found based on the state of t
   
   | Id | Type | Move / Letters to replace | Created words / New letters | Date | Points | Player | Who |
   | - | - | - | - | - | - | - | - |
+|0| INSERT | 7:H:je | ['JE'] | 12/11/2022, 12:21:25 UTC | 18 | Tom | [@radosz99](github.com/radosz99) |
 </details>
     
